@@ -4,32 +4,29 @@ class Solution:
         visited = [False for _ in range(numCourses)]
         path_visited = [False for _ in range(numCourses)]
 
-        adj = defaultdict(list)
+        Adj = defaultdict(list)
         for a,b in prerequisites:
-            adj[b].append(a)
-
-
+            Adj[b].append(a)
+        
         def dfs(node):
-            visited[node] = True
-            path_visited[node] = True
-
-            for neighbor in adj[node]:
-                if not visited[neighbor]:
-                    if dfs(neighbor): 
-                        return True
-                    path_visited[neighbor] = False
-                elif visited[neighbor] and path_visited[neighbor]:
+            for ngh in Adj[node]:
+                if not visited[ngh]:
+                    visited[ngh] = True
+                    path_visited[ngh] = True
+                    if dfs(ngh) : return True
+                elif visited[ngh] and path_visited[ngh]:
                     return True
             path_visited[node] = False
-
             return False
-                    
 
         for start in range(numCourses):
             if not visited[start]:
+                visited[start] = True
+                path_visited[start] = True
                 if dfs(start):
                     return False
-                path_visited[start] =False
+                path_visited[start] = False
+                
         return True
         
         
