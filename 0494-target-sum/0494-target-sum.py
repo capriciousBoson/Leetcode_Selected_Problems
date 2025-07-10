@@ -6,7 +6,7 @@ class Solution:
         memo = {}
         def dfs(i,x):
             if i>=n:
-                print(f"final path sum : {x}")
+                # print(f"final path sum : {x}")
                 if x==target:
                     return 1
                 else:
