@@ -31,7 +31,7 @@ class Solution:
                 else:
                     dp[i][minus_val] = dp[i-1][val]
         
-        print(dp)
+        # print(dp)
 
         return dp[n-1][target] if target in dp[n-1] else 0
 
