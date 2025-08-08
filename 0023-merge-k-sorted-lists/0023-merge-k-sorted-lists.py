@@ -6,16 +6,15 @@
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         
-        if not len(lists) :
-            return 
-
+        # if not len(lists) :
+        #     return 
 
         all_nodes = []
         counter = 0
         for head in lists:
             curr = head
             while curr:
-                print(f"curr.val, curr = {curr.val, curr}")
+                # print(f"curr.val, curr = {curr.val, curr}")
                 heapq.heappush(all_nodes, (curr.val,counter, curr))
                 curr = curr.next
                 counter +=1
