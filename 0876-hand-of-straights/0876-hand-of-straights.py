@@ -12,7 +12,7 @@ class Solution:
         while mh:
             start = mh[0]
             for x in range(start, start+groupSize):
-                if x not in counts:
+                if not counts[x]:
                     return False
                 counts[x] -=1
                 if counts[x]==0 :
