@@ -70,6 +70,7 @@ My Solutions to some selected Leetcode problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -102,4 +103,21 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
