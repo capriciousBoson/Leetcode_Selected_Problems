@@ -6,6 +6,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ My Solutions to some selected Leetcode problems.
 | [0416-partition-equal-subset-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0455-assign-cookies](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
 ## Counting
@@ -145,4 +148,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
