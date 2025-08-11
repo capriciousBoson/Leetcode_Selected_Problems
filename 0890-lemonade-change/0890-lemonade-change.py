@@ -11,11 +11,7 @@ class Solution:
                 change = amount-5
 
                 while change and total_bills:
-                    if change>=20 and bill_counts[20]:
-                        change -= 20
-                        bill_counts[20] -=1
-                        total_bills -=1
-                    elif change >=10 and bill_counts[10]:
+                    if change >=10 and bill_counts[10]:
                         change-=10
                         bill_counts[10] -=1
                         total_bills -=1
