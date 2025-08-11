@@ -10,6 +10,7 @@ My Solutions to some selected Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -23,6 +24,7 @@ My Solutions to some selected Leetcode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0494-target-sum) |
@@ -106,6 +108,7 @@ My Solutions to some selected Leetcode problems.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
