@@ -4,7 +4,7 @@ class Solution:
         max_reach = 0
 
         for i in range(n):
-            print(f"i, max-reach : {i, max_reach}")
+            # print(f"i, max-reach : {i, max_reach}")
             if i > max_reach:
                 
                 return False
