@@ -1,16 +1,15 @@
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
-        heapq.heapify(g)
-        heapq.heapify(s)
+        g.sort(reverse=True)
+        s.sort(reverse=True)
         res = 0
-
         while g and s:
-            if s[0]>=g[0]:
+            if s[-1]>=g[-1]:
                 res += 1
-                heapq.heappop(s)
-                heapq.heappop(g)
+                g.pop()
+                s.pop()
             else:
-                heapq.heappop(s)
+                s.pop()
         return res
 
         
