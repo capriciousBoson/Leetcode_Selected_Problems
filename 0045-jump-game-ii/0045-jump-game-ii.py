@@ -1,7 +1,7 @@
 class Solution:
-    def find_jump(self,ranges, i):
-        for a,b,jumps in ranges:
-            if a<=i<=b : return jumps
+    # def find_jump(self,ranges, i):
+    #     for a,b,jumps in ranges:
+    #         if a<=i<=b : return jumps
 
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
@@ -13,7 +13,11 @@ class Solution:
 
         for i in range(n):
             if i + nums[i] > max_reach:
-                current_jumps = self.find_jump(ranges, i)
+                current_jumps = 0
+                for a,b,j in ranges:
+                    if a<=i<=b:
+                        current_jumps = j
+                        break
                 current_jumps += 1
                 max_reach = i+nums[i]
                 ranges.append([i, max_reach, current_jumps])
