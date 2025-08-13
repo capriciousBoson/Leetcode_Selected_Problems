@@ -1,15 +1,26 @@
 class Solution:
+    def find_jump(self,ranges, i):
+        for a,b,jumps in ranges:
+            if a<=i<=b : return jumps
+
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
-        j = [float('inf') for _ in range(n)]
-        j[0] = 0
+        if n==1:
+            return 0
+
+        max_reach = 0 
+        ranges = [[0,0,0]]
 
         for i in range(n):
-            
-            for d in range(1,nums[i]+1):
-                if i+d<n:
-                    j[i+d] = min(1+j[i],j[i+d])
-                    if i+d == n-1:
-                        return j[i+d]
-        return j[n-1]
-            
+            if i + nums[i] > max_reach:
+                current_jumps = self.find_jump(ranges, i)
+                current_jumps += 1
+                max_reach = i+nums[i]
+                ranges.append([i, max_reach, current_jumps])
+
+                if max_reach >= n-1:
+                    return current_jumps
+
+
+
+
