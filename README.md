@@ -99,6 +99,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
@@ -107,6 +108,7 @@ My Solutions to some selected Leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
@@ -130,6 +132,7 @@ My Solutions to some selected Leetcode problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -163,4 +166,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
