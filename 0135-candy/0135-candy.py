@@ -14,7 +14,7 @@ class Solution:
             if ratings[j] > ratings[j+1]:
                 right[j] = 1 + right[j+1]
         ans = [max(c1, c2) for c1,c2 in zip(left, right)]
-        print(f"candies : {ans}")
+        # print(f"candies : {ans}")
         return sum(ans)
 
 
