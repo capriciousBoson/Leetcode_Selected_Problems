@@ -12,6 +12,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -73,6 +74,7 @@ My Solutions to some selected Leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
