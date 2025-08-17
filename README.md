@@ -27,6 +27,7 @@ My Solutions to some selected Leetcode problems.
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@ My Solutions to some selected Leetcode problems.
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -96,6 +98,7 @@ My Solutions to some selected Leetcode problems.
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Quickselect
 |  |
 | ------- |
@@ -151,6 +154,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,4 +181,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
