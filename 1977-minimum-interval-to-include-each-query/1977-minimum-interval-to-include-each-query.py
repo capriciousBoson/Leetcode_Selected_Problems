@@ -1,18 +1,25 @@
-import bisect
 class Solution:
     def minInterval(self, intervals: List[List[int]], queries: List[int]) -> List[int]:
-        intervals.sort(key=lambda x: x[1]-x[0]+1)
+        intervals.sort(key=lambda x: x[0])
         n = len(queries)
         res = [-1 for x in range(n)]
-        queries = sorted([[q,i] for i,q in enumerate(queries)] )
+        sorted_queries = sorted([[q, index] for index,q in enumerate(queries)])
 
-        for left, right in intervals:
-            q_idx = bisect.bisect_left(queries, [left])
-            while q_idx < len(queries)  and queries[q_idx][0] <= right:
-                i = queries.pop(q_idx)[1]
-                res[i] = right-left+1
+
+        heap = []
+        idx = 0
+        for q,i in sorted_queries:
+    
+            print(f"\nq, i : {q, i}---")
+            
+            while idx< len(intervals) and q >= intervals[idx][0]:
+                s, e = intervals[idx]
+                heapq.heappush(heap, [e-s+1, e])
+                idx += 1
+            while heap  and heap[0][1] < q:
+                heapq.heappop(heap)
+            if heap: res[i] = heap[0][0]
         return res
-
 
 
                 
