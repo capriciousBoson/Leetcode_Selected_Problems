@@ -15,7 +15,7 @@ class Solution:
             # so while this is not satisfied we remove characcters from leftside
             if length-max_freq > k:
                 freq[s[l]] -= 1
-                max_freq = max(freq.values())
+                # max_freq = max(freq.values())
                 length -= 1
                 l += 1
             
