@@ -12,6 +12,7 @@ My Solutions to some selected Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
@@ -81,6 +82,7 @@ My Solutions to some selected Leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
@@ -174,6 +176,7 @@ My Solutions to some selected Leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
