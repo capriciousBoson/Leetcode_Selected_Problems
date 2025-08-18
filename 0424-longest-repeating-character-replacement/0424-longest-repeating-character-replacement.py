@@ -13,7 +13,7 @@ class Solution:
             length = r-l+1
             # for valid answer we need length - max_freq <= k:
             # so while this is not satisfied we remove characcters from leftside
-            while length-max_freq > k:
+            if length-max_freq > k:
                 freq[s[l]] -= 1
                 max_freq = max(freq.values())
                 length -= 1
