@@ -14,6 +14,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
@@ -37,6 +38,7 @@ My Solutions to some selected Leetcode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
@@ -180,6 +182,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
@@ -191,6 +194,7 @@ My Solutions to some selected Leetcode problems.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Doubly-Linked List
 |  |
@@ -209,4 +213,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
