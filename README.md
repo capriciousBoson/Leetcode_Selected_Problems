@@ -7,6 +7,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
@@ -129,6 +130,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
@@ -213,6 +215,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
