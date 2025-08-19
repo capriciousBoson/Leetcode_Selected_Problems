@@ -1,6 +1,8 @@
 from collections import Counter, defaultdict
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        if not s or not t or len(s) < len(t):
+            return ""
         n = len(s)
         t_counter = Counter(t)
         window_counter = defaultdict(int)
