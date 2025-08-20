@@ -16,7 +16,9 @@ class TimeMap:
         while left <= right:
             mid = (left+right)//2
 
-            if values[mid][0]<=timestamp:
+            if values[mid][0]==timestamp:
+                return values[mid][1]
+            elif values[mid][0]<timestamp:
                 res = values[mid][1]
                 left = mid+1
             # elif values[mid][0]<timestamp:
