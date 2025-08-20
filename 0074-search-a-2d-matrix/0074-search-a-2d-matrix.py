@@ -14,7 +14,7 @@ class Solution:
             if target==matrix[mid//n][mid%n]:
                 return True
             elif target < matrix[mid//n][mid%n]:
-                return bsearch(left, mid)
+                return bsearch(left, mid-1)
             elif target > matrix[mid//n][mid%n] : 
                 return bsearch(mid+1, right)
         return bsearch(0, m*n-1)
