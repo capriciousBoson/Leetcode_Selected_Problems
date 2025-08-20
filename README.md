@@ -24,6 +24,7 @@ My Solutions to some selected Leetcode problems.
 | [0057-insert-interval](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0239-sliding-window-maximum) |
@@ -176,6 +177,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0792-binary-search) |
