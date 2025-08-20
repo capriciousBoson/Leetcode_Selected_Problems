@@ -1,24 +1,23 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        k = float('inf')
         
-        def bsearch(l, r):
-            nonlocal k
-            if l>r:
-                return 
+        l,r = 1, max(piles)
+        k = r
+
+        while l<=r:
             
             mid = (l+r)//2
             # check if mid is possible
             h_ = 0
             for p in piles:
-                h_ += p//mid if p%mid==0 else (p//mid)+1
+                h_ += math.ceil(p/mid)
             
             if h_ <= h:
                 k = min(k, mid)
-                return bsearch(l, mid-1)
+                r = mid - 1
             elif h_ > h:
-                return bsearch(mid+1, r)
-        bsearch(1, max(piles))   
+                l = mid+1
+
         return k
 
 
