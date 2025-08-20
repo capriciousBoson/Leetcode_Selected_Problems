@@ -3,7 +3,9 @@ class Solution:
         n = len(nums)
 
         def bsearch(l,r):
-            if l==r and nums[l] != target:
+            # if l==r and nums[l] != target:
+            #     return -1
+            if l>r:
                 return -1
 
 
@@ -13,7 +15,7 @@ class Solution:
             if target==nums[mid]:
                 return mid
             if target < nums[mid] : 
-                return bsearch(l, mid)
+                return bsearch(l, mid-1)
             elif target > nums[mid]:
                 return bsearch(mid+1, r)
         return bsearch(0,n-1)
