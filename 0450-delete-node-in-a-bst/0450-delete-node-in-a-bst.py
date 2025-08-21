@@ -23,9 +23,9 @@ class Solution:
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         if not root : return root
 
-        print(f"root : {root}")
+        # print(f"root : {root}")
         if root.val == key:
-            print("deleteing thr root node-----")
+            # print("deleteing thr root node-----")
             return self.deleteHelper(root)
         current = root
         
