@@ -12,17 +12,18 @@ class Solution:
 
         while current:
             if current.val >= val:
-                if current.left is None:
+                if current.left is not None:
+                    current = current.left
+                    
+                else:
                     current.left = TreeNode(val)
                     break
-                else:
-                    current = current.left
             else:
-                if current.right is None:
+                if current.right is not None:
+                    current = current.right
+                else:
                     current.right = TreeNode(val)
                     break
-                else:
-                    current = current.right
         return root
             
         
