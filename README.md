@@ -61,6 +61,7 @@ My Solutions to some selected Leetcode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
@@ -179,6 +180,7 @@ My Solutions to some selected Leetcode problems.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -205,6 +207,7 @@ My Solutions to some selected Leetcode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -234,6 +237,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Doubly-Linked List
 |  |
