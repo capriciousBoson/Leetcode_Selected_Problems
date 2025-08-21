@@ -178,6 +178,7 @@ My Solutions to some selected Leetcode problems.
 ## Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -187,6 +188,7 @@ My Solutions to some selected Leetcode problems.
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0783-search-in-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-koko-eating-bananas) |
@@ -196,6 +198,7 @@ My Solutions to some selected Leetcode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
