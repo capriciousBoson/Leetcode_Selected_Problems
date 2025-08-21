@@ -10,12 +10,10 @@ class Solution:
         def traverse(node):
             if not node:
                 return 0
-            if node == p or node == q:
+            if node.val > p.val and node.val > q.val:
+                return traverse(node.left)
+            elif node.val < p.val and node.val < q.val:
+                return traverse(node.right)
+            else:
                 return node
-            left = traverse(node.left)
-            right = traverse(node.right)
-
-            if left and right:
-                return node
-            return left if left else right
         return traverse(root)
