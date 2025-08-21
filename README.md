@@ -138,6 +138,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
