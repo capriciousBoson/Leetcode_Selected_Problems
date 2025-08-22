@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import defaultdict
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         levels = defaultdict(list)
@@ -19,6 +18,5 @@ class Solution:
                 bfs(i+1, root.right)
         
         bfs(0,root)
-        return [levels[i] for i in range(len(levels))]
-            
+        return list(levels.values())
         
