@@ -67,6 +67,7 @@ My Solutions to some selected Leetcode problems.
 | [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -194,6 +195,7 @@ My Solutions to some selected Leetcode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -230,6 +232,7 @@ My Solutions to some selected Leetcode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0783-search-in-a-binary-search-tree) |
