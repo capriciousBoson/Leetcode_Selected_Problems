@@ -142,6 +142,7 @@ My Solutions to some selected Leetcode problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -319,4 +320,12 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
