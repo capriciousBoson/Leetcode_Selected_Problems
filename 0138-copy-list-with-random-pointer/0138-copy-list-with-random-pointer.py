@@ -18,10 +18,17 @@ class Solution:
         
             current = current.next
 
-        for oldnode, newnode in node_map.items():
-            if oldnode is not None:
-                newnode.next  = node_map.get(oldnode.next, None)
-                newnode.random = node_map.get(oldnode.random, None)
+        # for oldnode, newnode in node_map.items():
+        #     if oldnode is not None:
+        #         newnode.next  = node_map.get(oldnode.next, None)
+        #         newnode.random = node_map.get(oldnode.random, None)
+        current = head
+        while current:
+            newnode = node_map[current]
+            newnode.next = node_map[current.next]
+            newnode.random = node_map[current.random]
+
+            current = current.next
 
         return node_map[head]
         
