@@ -69,6 +69,7 @@ My Solutions to some selected Leetcode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
@@ -77,12 +78,14 @@ My Solutions to some selected Leetcode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -328,4 +331,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0002-add-two-numbers) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
