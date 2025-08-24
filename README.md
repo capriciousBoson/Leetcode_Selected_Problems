@@ -41,6 +41,7 @@ My Solutions to some selected Leetcode problems.
 | [0494-target-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
@@ -74,6 +75,7 @@ My Solutions to some selected Leetcode problems.
 | [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ My Solutions to some selected Leetcode problems.
 | [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -327,6 +330,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
 | ------- |
@@ -340,4 +344,5 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
