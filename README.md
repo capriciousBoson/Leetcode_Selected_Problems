@@ -144,6 +144,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
@@ -158,6 +159,7 @@ My Solutions to some selected Leetcode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
