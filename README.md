@@ -44,6 +44,7 @@ My Solutions to some selected Leetcode problems.
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
@@ -67,6 +68,7 @@ My Solutions to some selected Leetcode problems.
 | [0494-target-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 |  |
