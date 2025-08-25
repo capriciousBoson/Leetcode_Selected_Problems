@@ -13,7 +13,7 @@ class Solution:
         while heap:
             d, st, node = heapq.heappop(heap)
             if node==dst and st<=k+1:
-                ans = min(ans, d)
+                return d
             if st > k:
                 continue
             
@@ -23,5 +23,5 @@ class Solution:
                     stops_to[ngh] = st
                     heapq.heappush(heap, [ngh_d + d, st+1,ngh])
 
-        return ans if ans!= float('inf') else -1
+        return -1
         
