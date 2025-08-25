@@ -1,32 +1,25 @@
-from collections import defaultdict
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        visited = [False for _ in range(numCourses)]
-        path_visited = [False for _ in range(numCourses)]
+        adj = collections.defaultdict(list)
+        indegrees = [0 for _ in range(numCourses)]
+        res = []
+        Q = collections.deque()
 
-        Adj = defaultdict(list)
-        for a,b in prerequisites:
-            Adj[b].append(a)
+        for u,v in prerequisites:
+            indegrees[v] += 1
+            adj[u].append(v)
         
-        def dfs(node):
-            for ngh in Adj[node]:
-                if not visited[ngh]:
-                    visited[ngh] = True
-                    path_visited[ngh] = True
-                    if dfs(ngh) : return True
-                elif visited[ngh] and path_visited[ngh]:
-                    return True
-            path_visited[node] = False
-            return False
+        for i in range(numCourses):
+            if indegrees[i]==0:
+                Q.append(i)
 
-        for start in range(numCourses):
-            if not visited[start]:
-                visited[start] = True
-                path_visited[start] = True
-                if dfs(start):
-                    return False
-                path_visited[start] = False
-                
-        return True
-        
+        while Q:
+            node = Q.popleft()
+            res.append(node)
+            for ngh in adj[node]:
+                indegrees[ngh] -= 1
+                if indegrees[ngh]==0:
+                    Q.append(ngh)
+        return len(res)==numCourses
+
         
