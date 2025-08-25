@@ -36,5 +36,5 @@ class Solution:
                 if not visited[ngh]:
                     ngh_wt = manhattanDistance(points[ngh], points[node])
                     heapq.heappush(heap, [ngh_wt, ngh, node])
-        print(f"mst : {mst}, res = {res}")
+        # print(f"mst : {mst}, res = {res}")
         return res
