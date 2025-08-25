@@ -2,7 +2,7 @@ class Solution:
     def rob(self, nums: List[int]) -> int:
         memo = {}
         n = len(nums)
-        if n==1: return nums[0]
+        if n<2: return max(nums)
         
         def rob_(i):
             if i>=n:
