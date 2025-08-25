@@ -17,24 +17,24 @@ class Solution:
         visited = [False for _ in range(len(points))]
         mst = []
         res = 0
-        heap = [[0, 0, -1]]
-        edges_added = 0
+        heap = [[0, 0]]
+        # edges_added = 0
 
-        while heap and edges_added<len(points):
-            wt, node, parent = heapq.heappop(heap)
+        while heap :
+            wt, node = heapq.heappop(heap)
             if visited[node]: continue
 
             visited[node] = True
             res += wt
 
-            if parent != -1:
-                # visited[parent] = True
-                edges_added += 1
-                mst.append([parent, node])
+            # if parent != -1:
+            #     # visited[parent] = True
+            #     edges_added += 1
+            #     mst.append([parent, node])
 
             for ngh in range(n):
                 if not visited[ngh]:
                     ngh_wt = manhattanDistance(points[ngh], points[node])
-                    heapq.heappush(heap, [ngh_wt, ngh, node])
+                    heapq.heappush(heap, [ngh_wt, ngh])
         # print(f"mst : {mst}, res = {res}")
         return res
