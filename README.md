@@ -63,6 +63,7 @@ My Solutions to some selected Leetcode problems.
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0213-house-robber-ii) |
@@ -370,6 +371,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -395,4 +397,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
