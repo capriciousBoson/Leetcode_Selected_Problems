@@ -28,13 +28,15 @@ class Solution:
         for i in range(m-1, -1, -1):
             for j in range(n-1, -1, -1):
                 if i==m-1 and j==n-1 : continue
-                down = float('inf')
-                right = float('inf')
+                # down = float('inf')
+                # right = float('inf')
 
-                if i <m-1:
-                    down = dp[i+1][j]
-                if j < n-1:
-                    right = dp[i][j+1]
+                # if i <m-1:
+                #     down = dp[i+1][j]
+                # if j < n-1:
+                #     right = dp[i][j+1]
+                down = dp[i+1][j]
+                right = dp[i][j+1]
                 
                 dp[i][j] = grid[i][j] + min(down, right)
         return dp[0][0]
