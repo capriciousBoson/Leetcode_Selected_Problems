@@ -45,6 +45,7 @@ My Solutions to some selected Leetcode problems.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-koko-eating-bananas) |
@@ -82,6 +83,7 @@ My Solutions to some selected Leetcode problems.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
@@ -98,6 +100,7 @@ My Solutions to some selected Leetcode problems.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Graph
 |  |
@@ -157,6 +160,7 @@ My Solutions to some selected Leetcode problems.
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -258,6 +262,7 @@ My Solutions to some selected Leetcode problems.
 | [0784-insert-into-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -351,6 +356,7 @@ My Solutions to some selected Leetcode problems.
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 ## Math
 |  |
 | ------- |
@@ -365,6 +371,7 @@ My Solutions to some selected Leetcode problems.
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 ## Shortest Path
 |  |
 | ------- |
