@@ -60,6 +60,7 @@ My Solutions to some selected Leetcode problems.
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -363,6 +364,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -383,4 +385,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1706-min-cost-to-connect-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
