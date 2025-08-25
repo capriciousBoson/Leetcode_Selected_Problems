@@ -22,8 +22,8 @@ class Solution:
         #     return memo[(i,j)]
         # return pathSum(0,0)
 
-        dp = [[float('inf') for _ in range(n+1)] for __ in range(m+1)]
-        dp[m-1][n-1] = grid[m-1][n-1]
+        # dp = [[float('inf') for _ in range(n+1)] for __ in range(m+1)]
+        # dp[m-1][n-1] = grid[m-1][n-1]
 
         for i in range(m-1, -1, -1):
             for j in range(n-1, -1, -1):
