@@ -18,14 +18,15 @@ class Solution:
         mst = []
         res = 0
         heap = [[0, 0]]
-        # edges_added = 0
+        edges_added = 0
 
-        while heap :
+        while heap and edges_added < n:
             wt, node = heapq.heappop(heap)
             if visited[node]: continue
 
             visited[node] = True
             res += wt
+            edges_added += 1
 
             # if parent != -1:
             #     # visited[parent] = True
