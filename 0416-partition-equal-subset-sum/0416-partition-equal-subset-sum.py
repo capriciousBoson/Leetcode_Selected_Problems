@@ -7,7 +7,8 @@ class Solution:
         n = len(nums)
 
         dp = [[False for _ in range((total//2) + 1)] for __ in range(n)]
-        # dp[0][nums[0]] = True
+        if nums[0] <=total//2:
+            dp[0][nums[0]] = True
         for i in range(n):
             dp[i][0] = True
         
