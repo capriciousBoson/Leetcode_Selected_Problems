@@ -29,6 +29,7 @@ My Solutions to some selected Leetcode problems.
 | [0064-minimum-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -206,6 +207,7 @@ My Solutions to some selected Leetcode problems.
 | [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
@@ -387,6 +389,7 @@ My Solutions to some selected Leetcode problems.
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
