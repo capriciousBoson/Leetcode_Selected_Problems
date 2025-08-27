@@ -86,6 +86,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
@@ -104,6 +105,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
@@ -251,6 +253,7 @@ My Solutions to some selected Leetcode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -291,6 +294,7 @@ My Solutions to some selected Leetcode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
