@@ -28,6 +28,7 @@ My Solutions to some selected Leetcode problems.
 | [0040-combination-sum-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0057-insert-interval) |
@@ -72,6 +73,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0064-minimum-path-sum) |
@@ -164,6 +166,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
