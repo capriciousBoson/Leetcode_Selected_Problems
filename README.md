@@ -11,6 +11,7 @@ My Solutions to some selected Leetcode problems.
 | [0125-valid-palindrome](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
@@ -95,6 +96,7 @@ My Solutions to some selected Leetcode problems.
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -254,6 +256,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -436,4 +439,5 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
