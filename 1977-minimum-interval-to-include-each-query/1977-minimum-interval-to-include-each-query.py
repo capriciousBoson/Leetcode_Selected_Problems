@@ -1,7 +1,7 @@
 class Solution:
     def minInterval(self, intervals: List[List[int]], queries: List[int]) -> List[int]:
         intervals.sort(key=lambda x: x[0])
-        n = len(intervals)
+        n = len(queries)
         res = [-1 for x in range(n)]
         sorted_queries = sorted([[q, index] for index,q in enumerate(queries)])
 
@@ -12,7 +12,7 @@ class Solution:
     
             print(f"\nq, i : {q, i}---")
             
-            while idx< n and q >= intervals[idx][0]:
+            while idx< len(intervals) and q >= intervals[idx][0]:
                 s, e = intervals[idx]
                 heapq.heappush(heap, [e-s+1, e])
                 idx += 1
