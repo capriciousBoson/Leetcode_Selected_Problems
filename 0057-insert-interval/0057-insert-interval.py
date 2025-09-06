@@ -8,6 +8,8 @@ class Solution:
         i = 0
         inserted =  False
         while i<n:
+            # new_start, new_end = newInterval[0], newInterval[1]
+            # curr_start, curr_end = intervals[i][0], intervals[i][1]
             # print(f"\nintervals[{i}] : {intervals[i]}")
             if not inserted and newInterval[0] < intervals[i][0] and newInterval[1]<intervals[i][0]:
                 res.append(newInterval)
