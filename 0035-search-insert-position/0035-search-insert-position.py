@@ -4,15 +4,6 @@ class Solution:
 
         def bsearch(l,r):
             print(l,r)
-
-            if  r <0:
-                return 0
-            if l > n-1:
-                return n
-
-            if l>r :
-                return l
-
             
 
             m = (l+r)//2
@@ -26,7 +17,7 @@ class Solution:
                     return l+1
 
             if target < nums[m] :
-                return bsearch(l,m-1)
+                return bsearch(l,m)
             elif target > nums[m]:
                 return bsearch(m+1, r)
         return bsearch(0,n-1)
