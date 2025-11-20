@@ -13,7 +13,7 @@ class Solution:
 
             if mid==0 :
                 if nums[mid+1] < nums[mid]:
-                    return nums[mid]
+                    return mid
                 else:
                     left = mid+1
                     continue
