@@ -11,10 +11,10 @@ class Solution:
             s = 0
             for n in nums :
                 s += math.ceil(n/mid)
-            print(f"mid :{mid}, s: {s}, threshold : {threshold}")
+            # print(f"mid :{mid}, s: {s}, threshold : {threshold}")
             if s <= threshold:
                 res = min(res, mid)
-                print(f" therefore updated res :{res}")
+                # print(f" therefore updated res :{res}")
                 right = mid-1
 
             else:
