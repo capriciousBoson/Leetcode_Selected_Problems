@@ -70,6 +70,7 @@ My Solutions to some selected Leetcode problems.
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -323,6 +324,7 @@ My Solutions to some selected Leetcode problems.
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
