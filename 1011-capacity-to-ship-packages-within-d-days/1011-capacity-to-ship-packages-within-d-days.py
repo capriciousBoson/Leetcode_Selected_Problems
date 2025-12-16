@@ -21,7 +21,7 @@ class Solution:
                 w = 0
                 d += 1
 
-            print(f"capacity : {mid}, days  taken : {d}, total days: {days}" )
+            # print(f"capacity : {mid}, days  taken : {d}, total days: {days}" )
             if d <= days:
                 res = min(res, mid)
                 right = mid-1
