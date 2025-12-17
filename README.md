@@ -75,6 +75,7 @@ My Solutions to some selected Leetcode problems.
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -330,6 +331,7 @@ My Solutions to some selected Leetcode problems.
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Binary Tree
 |  |
