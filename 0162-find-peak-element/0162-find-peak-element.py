@@ -11,23 +11,9 @@ class Solution:
             mid = (left + right)//2
             print(nums[mid])
 
-            if mid==0 :
-                if nums[mid+1] < nums[mid]:
-                    return mid
-                else:
-                    left = mid+1
-                    continue
-                
-            if mid == n-1:
-                if nums[mid-1]< nums[mid]:
-                    return mid
-                else:
-                    right = mid-1
-                    continue
-
-            if nums[mid-1]< nums[mid] > nums[mid+1]:
+            if (mid==0 or nums[mid-1]<nums[mid]) and (mid==n-1 or nums[mid]>nums[mid+1]):
                 return mid
-            elif nums[mid-1] < nums[mid]<=nums[mid+1]:
+            elif nums[mid-1] < nums[mid] < nums[mid+1]:
                 left = mid+1
                 continue
             else:
