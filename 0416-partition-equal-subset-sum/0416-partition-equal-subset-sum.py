@@ -3,26 +3,30 @@ class Solution:
         total = sum(nums)
         if total %2 !=0 or len(nums) < 2:
             return False
+        
+        n = len(nums)
 
         memo = {}
-        def fun(i,target):
-            if target==0:
+        target = total//2
+
+        def partitionSum(i,x):
+            if x==total//2:
                 return True
-            if i==0:
-                return target==nums[0]
-
-            if (i, target) not in memo:
-                take = False
-                if target >= nums[i]:
-                    take =  fun(i-1, target - nums[i])
-                if take==True: return True
-                not_take = fun(i-1, target)
-                if not_take==True: return True
-
-                memo[(i,target)] = take or not_take
-            return memo[(i, target)]
-        return fun(len(nums)-1, total//2)
+            if i>=n or x > target:
+                return False
             
+            if (i,x) not in memo:
+                take = partitionSum(i+1, x+nums[i])
+                if take: return True
+                not_take = partitionSum(i+1, x)
+                if not_take: return True
+
+                memo[(i,x)] = take or not_take
+
+            return memo[(i,x)]
+
+
+        return partitionSum(0,0)
 
         # dp = [[False for _ in range((total//2) + 1)] for __ in range(n)]
         # if nums[0] <=total//2:
