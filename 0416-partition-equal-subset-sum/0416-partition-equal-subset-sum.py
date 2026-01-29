@@ -3,34 +3,25 @@ class Solution:
         total = sum(nums)
         if total %2 !=0 or len(nums) < 2:
             return False
-        
-        n = len(nums)
-        target = total //2
+
         memo = {}
-
-        def partitionSum(i,x):
-            if x==target:
+        def fun(i,target):
+            if target==0:
                 return True
-            if i>=n:
-                return False
-            
-            if (i,x) not in memo:
-                take  = False
-                if x + nums[i]==target:
-                    take = True
-                if x + nums[i] < target:
-                    take = partitionSum(i+1, x+nums[i])
-                if take: return True
-                
-                not_take = partitionSum(i+1, x)
-                if not_take: return True
+            if i==0:
+                return target==nums[0]
 
-                memo[(i,x)] = take or not_take
- 
-            return memo[(i,x)]
+            if (i, target) not in memo:
+                take = False
+                if target >= nums[i]:
+                    take =  fun(i-1, target - nums[i])
+                if take==True: return True
+                not_take = fun(i-1, target)
+                if not_take==True: return True
 
-
-        return partitionSum(0,0)
+                memo[(i,target)] = take or not_take
+            return memo[(i, target)]
+        return fun(len(nums)-1, total//2)
             
 
         # dp = [[False for _ in range((total//2) + 1)] for __ in range(n)]
