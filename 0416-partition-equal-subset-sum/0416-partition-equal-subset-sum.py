@@ -15,9 +15,15 @@ class Solution:
                 return False
             
             if (i,x) not in memo:
-                memo[(i,x)] = partitionSum(i+1, x) or partitionSum(i+1, x+nums[i])
-            
+                take = partitionSum(i+1, x+nums[i])
+                if take: return True
+                not_take = partitionSum(i+1, x)
+                if not_take: return True
+
+                memo[(i,x)] = take or not_take
+
             return memo[(i,x)]
+
 
         return partitionSum(0,0)
             
