@@ -6,20 +6,36 @@ class Solution:
         
         n = len(nums)
 
-        dp = [[False for _ in range((total//2) + 1)] for __ in range(n)]
-        if nums[0] <=total//2:
-            dp[0][nums[0]] = True
-        for i in range(n):
-            dp[i][0] = True
+        memo = {}
+
+        def partitionSum(i,x):
+            if x==total//2:
+                return True
+            if i>=n:
+                return False
+            
+            if (i,x) not in memo:
+                memo[(i,x)] = partitionSum(i+1, x) or partitionSum(i+1, x+nums[i])
+            
+            return memo[(i,x)]
+
+        return partitionSum(0,0)
+            
+
+        # dp = [[False for _ in range((total//2) + 1)] for __ in range(n)]
+        # if nums[0] <=total//2:
+        #     dp[0][nums[0]] = True
+        # for i in range(n):
+        #     dp[i][0] = True
         
-        for i in range(1,n):
-            for target in range(1,(total//2)+1):
-                take = False
-                if nums[i] <= target:
-                    take = dp[i-1][target-nums[i]]
-                not_take = dp[i-1][target]
-                dp[i][target] = take or not_take
-        return dp[n-1][total//2]
+        # for i in range(1,n):
+        #     for target in range(1,(total//2)+1):
+        #         take = False
+        #         if nums[i] <= target:
+        #             take = dp[i-1][target-nums[i]]
+        #         not_take = dp[i-1][target]
+        #         dp[i][target] = take or not_take
+        # return dp[n-1][total//2]
 
         
 
