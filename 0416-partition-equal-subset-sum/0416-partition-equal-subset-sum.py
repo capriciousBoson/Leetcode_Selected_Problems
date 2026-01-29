@@ -10,7 +10,7 @@ class Solution:
         target = total//2
 
         def partitionSum(i,x):
-            if x==total//2:
+            if x==target:
                 return True
             if i>=n or x > target:
                 return False
