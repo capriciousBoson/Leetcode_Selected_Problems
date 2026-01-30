@@ -8,6 +8,10 @@ class Solution:
             if x==target:
                 return True
             if i >= n and x != target:
+                memo[(i,x)] = False
+                return False
+            if i<n and x>target:
+                memo[(i,x)] = False
                 return False
             
             if (i,x) not in memo:
