@@ -85,6 +85,7 @@ My Solutions to some selected Leetcode problems.
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ My Solutions to some selected Leetcode problems.
 | [0747-min-cost-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -449,6 +451,7 @@ My Solutions to some selected Leetcode problems.
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
