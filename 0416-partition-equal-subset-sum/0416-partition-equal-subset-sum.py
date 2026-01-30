@@ -7,12 +7,9 @@ class Solution:
         def fun(i,x):
             if x==target:
                 return True
-            if i >= n and x != target:
-                memo[(i,x)] = False
+            if x> target or i>=n:
                 return False
-            if i<n and x>target:
-                memo[(i,x)] = False
-                return False
+
             
             if (i,x) not in memo:
                 take = fun(i+1, x+nums[i])
