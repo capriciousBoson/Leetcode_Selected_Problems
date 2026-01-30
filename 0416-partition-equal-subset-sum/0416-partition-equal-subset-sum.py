@@ -5,15 +5,15 @@ class Solution:
         n = len(nums)
         memo = {}
         def fun(i,x):
-            if x==target:
+            if x==0:
                 return True
-            if x> target or i>=n:
+            if x< 0 or i>=n:
                 return False
 
             
             if (i,x) not in memo:
-                take = fun(i+1, x+nums[i])
-                if take:
+                take = fun(i+1, x-nums[i])
+                if take: 
                     return True
                 not_take = fun(i+1, x)
                 if not_take:
@@ -21,5 +21,5 @@ class Solution:
                 memo[(i,x)] = take or not_take
             return memo[(i,x)]
 
-        return fun(0,0)
+        return fun(0,target)
 
