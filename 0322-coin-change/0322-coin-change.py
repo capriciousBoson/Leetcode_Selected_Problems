@@ -3,39 +3,39 @@ class Solution:
         if not coins: return 0
         if amount==0: return 0
         
-        # dp = [float('inf') for _ in range(amount + 1)]
-        # dp[0] = 0
+        dp = [float('inf') for _ in range(amount + 1)]
+        dp[0] = 0
         # for c in coins:
         #     if c<= amount:
         #         dp[c] = 1
 
-        # for x in range(amount+1):
-        #     for c in coins:
+        for x in range(1,amount+1):
+            for c in coins:
                 
-        #         if x+c <= amount:
-        #             dp[x] = min(dp[x], 1+ dp[x+c])
-        # return dp[amount]
+                if x-c >=0 :
+                    dp[x] = min(dp[x], 1+ dp[x-c])
+        return dp[amount] if dp[amount]!=float('inf') else -1
 
 
 
-        memo = {}
+        # memo = {}
 
-        def fun(x):
-            if x== amount:
-                return 0
-            elif x > amount:
-                return float('inf')
+        # def fun(x):
+        #     if x==0:
+        #         return 0
+        #     elif x < 0:
+        #         return float('inf')
             
-            if x not in memo :
-                res = float('inf')
+        #     if x not in memo :
+        #         res = float('inf')
 
-                for c in coins:
-                    res = min(res, 1 + fun(x+c))
-                memo[x] = res
+        #         for c in coins:
+        #             res = min(res, 1 + fun(x-c))
+        #         memo[x] = res
 
-            return memo[x]
-        n = fun(0)
-        return n if n!=float('inf') else -1
+        #     return memo[x]
+        # n = fun(amount)
+        # return n if n!=float('inf') else -1
 
 
         # n = len(coins)
