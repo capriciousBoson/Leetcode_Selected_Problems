@@ -6,20 +6,20 @@ class Solution:
         memo = {}
 
         def fun(x):
-            if x== 0:
+            if x== amount:
                 return 0
-            elif x < 0:
+            elif x > amount:
                 return float('inf')
             
             if x not in memo :
                 res = float('inf')
 
                 for c in coins:
-                    res = min(res, 1 + fun(x-c))
+                    res = min(res, 1 + fun(x+c))
                 memo[x] = res
 
             return memo[x]
-        n = fun(amount)
+        n = fun(0)
         return n if n!=float('inf') else -1
 
 
