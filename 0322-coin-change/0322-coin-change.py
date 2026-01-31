@@ -2,6 +2,21 @@ class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         if not coins: return 0
         if amount==0: return 0
+        
+        # dp = [float('inf') for _ in range(amount + 1)]
+        # dp[0] = 0
+        # for c in coins:
+        #     if c<= amount:
+        #         dp[c] = 1
+
+        # for x in range(amount+1):
+        #     for c in coins:
+                
+        #         if x+c <= amount:
+        #             dp[x] = min(dp[x], 1+ dp[x+c])
+        # return dp[amount]
+
+
 
         memo = {}
 
