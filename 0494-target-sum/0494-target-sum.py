@@ -1,26 +1,19 @@
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        if not nums: return 0
-        total = sum(nums)
-
-        if not (-total <= target <= total):
+        if not(-sum(nums)<=target<=sum(nums)):
             return 0
 
+        n = len(nums)
         memo = {}
 
-        def dfs(i,x):
-            if i>=len(nums):
-                if x==target:
-                    return 1
-                else:
-                    return 0
-            
-            if (i,x) not in memo:
-                a = dfs(i+1, x + nums[i])
-                b = dfs(i+1, x - nums[i])
+        def dp(i, x):
+            if x==0 and i>=n:
+                return 1
+            if i >= n:
+                return 0
 
-                memo[(i,x)] = a+b
+            if (i,x) not in memo:
+                memo[(i,x)] = dp(i+1, x-nums[i]) + dp(i+1, x+nums[i])
             return memo[(i,x)]
 
-        return dfs(0, 0)
-        
+        return dp(0,target)
