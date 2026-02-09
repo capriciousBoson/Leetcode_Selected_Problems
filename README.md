@@ -116,6 +116,7 @@ My Solutions to some selected Leetcode problems.
 | [0931-minimum-falling-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Depth-First Search
 |  |
