@@ -86,6 +86,7 @@ My Solutions to some selected Leetcode problems.
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -114,6 +115,7 @@ My Solutions to some selected Leetcode problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0983-minimum-cost-for-tickets) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -426,6 +428,7 @@ My Solutions to some selected Leetcode problems.
 | [0238-product-of-array-except-self](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Monotonic Stack
 |  |
 | ------- |
