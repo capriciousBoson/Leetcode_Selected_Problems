@@ -7,6 +7,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0127-word-ladder) |
@@ -33,6 +34,7 @@ My Solutions to some selected Leetcode problems.
 | [0040-combination-sum-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
@@ -207,6 +209,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0217-contains-duplicate) |
@@ -259,6 +262,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0127-word-ladder) |
