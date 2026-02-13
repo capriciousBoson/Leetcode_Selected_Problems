@@ -13,6 +13,7 @@ My Solutions to some selected Leetcode problems.
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
@@ -208,6 +209,7 @@ My Solutions to some selected Leetcode problems.
 | [0056-merge-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -264,6 +266,7 @@ My Solutions to some selected Leetcode problems.
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
