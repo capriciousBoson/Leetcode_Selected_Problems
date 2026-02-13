@@ -1,13 +1,16 @@
 from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groups = defaultdict(list)
-
+        anagram_groups = defaultdict(list)
         for word in strs:
-            sig = [0 for _ in range(26)]
+            key = [0 for i in range(26)]
             for c in word:
-                sig[ord(c)-ord('a')] += 1
-            groups[tuple(sig)].append(word)
+                key[ord(c)-ord('a')]+=1
+            anagram_groups[tuple(key)].append(word)
+        return anagram_groups.values()
 
-        return list(groups.values())
+                
+
+
+
         
