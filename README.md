@@ -22,6 +22,7 @@ My Solutions to some selected Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0015-3sum) |
@@ -256,6 +257,7 @@ My Solutions to some selected Leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
