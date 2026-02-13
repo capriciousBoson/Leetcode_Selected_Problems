@@ -17,7 +17,7 @@ class Solution:
         for j in range(n-2, -1, -1):
             postfix[j] = postfix[j+1] * nums[j+1]
 
-        print(f"prefix : {prefix} \npostfix :{postfix}")
+        # print(f"prefix : {prefix} \npostfix :{postfix}")
         
         res = []
         for i in range(n):
