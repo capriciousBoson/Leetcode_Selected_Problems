@@ -514,4 +514,8 @@ My Solutions to some selected Leetcode problems.
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
