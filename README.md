@@ -46,6 +46,7 @@ My Solutions to some selected Leetcode problems.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -106,6 +107,7 @@ My Solutions to some selected Leetcode problems.
 | [0064-minimum-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
