@@ -12,6 +12,7 @@ My Solutions to some selected Leetcode problems.
 | [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
@@ -51,6 +52,7 @@ My Solutions to some selected Leetcode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -111,6 +113,7 @@ My Solutions to some selected Leetcode problems.
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
@@ -277,6 +280,7 @@ My Solutions to some selected Leetcode problems.
 | [0128-longest-consecutive-sequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0217-contains-duplicate) |
@@ -512,6 +516,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -519,6 +524,7 @@ My Solutions to some selected Leetcode problems.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
