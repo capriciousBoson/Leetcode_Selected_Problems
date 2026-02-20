@@ -41,6 +41,7 @@ class Solution:
                             # memo[idx] = memo[idx] or dfs(i+1)
                             if found:
                                 memo[idx] = True
+                                return memo[idx]
 
                     else:
                         # memo[idx] = False
