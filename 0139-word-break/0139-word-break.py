@@ -37,8 +37,13 @@ class Solution:
                     if s[i] in current.children:
                         current = current.children[s[i]]
                         if current.isEndOfWord:
-                            memo[idx] = memo[idx] or dfs(i+1)
+                            found = dfs(i+1)
+                            # memo[idx] = memo[idx] or dfs(i+1)
+                            if found:
+                                memo[idx] = True
+
                     else:
+                        # memo[idx] = False
                         break
             return memo[idx]
             # return False
