@@ -11,7 +11,12 @@ class Solution:
 
             if (i,j) not in memo:
                 if s[i:j+1] in words:
-                    memo[(i,j)] = dfs(i, j+1) or dfs(j+1, j+1)
+                    take = dfs(j+1, j+1)
+                    if take:
+                        return True
+                    not_take = dfs(i, j+1)
+                    memo[(i,j)] = take or not_take
+                    
                 else:
                     memo[(i,j)] =  dfs(i, j+1)
             return memo[(i,j)]
