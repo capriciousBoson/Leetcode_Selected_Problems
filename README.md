@@ -23,6 +23,7 @@ My Solutions to some selected Leetcode problems.
 | [0647-palindromic-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
+| [1092-shortest-common-supersequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ My Solutions to some selected Leetcode problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0983-minimum-cost-for-tickets) |
+| [1092-shortest-common-supersequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1143-longest-common-subsequence) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
