@@ -1,19 +1,24 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        dp = [[0,0] for _ in range(len(prices)  + 2)]
+        next_row = [0,0]
+        next_row2 = [0,0]
 
         for i in range(len(prices)-1, -1, -1):
+            current_row = [0,0]
             for state in range(2):
                 if state == 0:
-                    buy = -prices[i] + dp[i+1][1]
-                    not_buy = dp[i+1][0]
-                    dp[i][state] =  max(buy, not_buy)
+                    buy = -prices[i] + next_row[1]
+                    not_buy = next_row[0]
+                    current_row[state] =  max(buy, not_buy)
                 if state == 1:
-                    sell = prices[i] + dp[i+2][0]
-                    not_sell = dp[i+1][1]
-                    dp[i][state] = max(sell, not_sell)
+                    sell = prices[i] + next_row2[0]
+                    not_sell = next_row[1]
+                    current_row[state] = max(sell, not_sell)
 
-        return dp[0][0]
+            next_row2 = next_row
+            next_row = current_row
+
+        return next_row[0]
 
         
         
