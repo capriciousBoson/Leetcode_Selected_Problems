@@ -1,33 +1,36 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        m, n = len(grid), len(grid[0])
+        rows, cols = len(grid), len(grid[0])
 
-        # visited = [[False for _ in range(n)] for __ in range(m)]
-        res  = 0
+        visited = [[False for _ in range(cols)] for __ in range(rows)]
+
+        dirs = [(0,1), (0,-1), (1,0), (-1,0)]
+
+        def dfs(i,j):
+            if visited[i][j]:
+                return
+
+            visited[i][j] = True
+
+            for dx, dy in dirs:
+                x,y = i+dx, j+dy
+                if 0<=x<rows and 0<=y<cols and grid[x][y]=='1':
+                    dfs(x,y)
+            return
         
-        dirs = [(0,1), (1,0), (0,-1), (-1,0)]
-        for i in range(m):
-            for j in range(n):
-                # print(f"\ngrid[{i}][{j}] : {grid[i][j]} | visited : {visited[i][j]}")
-                if grid[i][j]=="1":
-                    res += 1
-                    # print(f" updated res : {res}")
+        islands = 0
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c]=='1' and not visited[r][c]:
+                    # print(f"\nnot visited r,c : {r,c}")
+                    islands += 1
+                    dfs(r,c)
+                    # print(f"after visiting : ")
+                    # for r_ in visited:
+                        # print(r_)
 
-                    Q = collections.deque()
-                    Q.append((i,j))
-                    grid[i][j] = "#"
-
-                    while Q:
-                        i_, j_ = Q.popleft()
-                        for dx, dy in dirs:
-                            x,y = i_ + dx, j_ + dy
-                            if 0<=x<m and 0<=y<n and grid[x][y]=="1" :
-                                Q.append((x,y))
-                                grid[x][y] = "#"
-
-                
-        return res
-
+        return islands
+        
 
 
         
