@@ -558,6 +558,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
