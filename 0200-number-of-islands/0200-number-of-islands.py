@@ -7,8 +7,8 @@ class Solution:
         dirs = [(0,1), (0,-1), (1,0), (-1,0)]
 
         def dfs(i,j):
-            if grid[i][j]=='0':
-                return
+            # if grid[i][j]=='0':
+            #     return
 
             grid[i][j] = '0'
 
