@@ -1,31 +1,58 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
+        dirs = [[0,1], [1,0], [-1,0],[0,-1]]
 
-        # visited = [[False for _ in range(n)] for __ in range(m)]
-        ans  = 0
-        
-        dirs = [(0,1), (1,0), (0,-1), (-1,0)]
-        for i in range(m):
-            for j in range(n):
-                # print(f"\ngrid[{i}][{j}] : {grid[i][j]} | visited : {visited[i][j]}")
-                if grid[i][j]==1:
-                    area = 1
-                    # print(f" updated res : {res}")
+        res = 0
 
-                    Q = collections.deque()
-                    Q.append((i,j))
-                    grid[i][j] = "#"
+        def dfs(i,j):
+            
+            grid[i][j] = 0
+            area = 1
 
-                    while Q:
-                        i_, j_ = Q.popleft()
-                        for dx, dy in dirs:
-                            x,y = i_ + dx, j_ + dy
-                            if 0<=x<m and 0<=y<n and grid[x][y]==1:
-                                area += 1
-                                Q.append((x,y))
-                                grid[x][y] = "#"
-                    ans = max(ans, area)
+            for dx, dy in dirs:
+                x, y = i+dx, j+dy
 
-        return ans
-        
+                if 0<= x<m and 0<=y<n and grid[x][y]==1:
+                    area += dfs(x,y)
+            return area
+
+        for r in range(m):
+            for c in range(n):
+                if grid[r][c] == 1 :
+                    a = dfs(r,c)
+                    res = max(res, a)
+        return res
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
