@@ -571,5 +571,6 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
