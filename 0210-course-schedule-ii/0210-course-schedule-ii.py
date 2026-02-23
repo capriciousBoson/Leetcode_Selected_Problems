@@ -4,24 +4,27 @@ class Solution:
         indegrees = [0 for _ in range(numCourses)]
 
         for u,v in prerequisites:
-            indegrees[v] += 1
-            adj[u].append(v)
+            adj[v].append(u)
+            indegrees[u] += 1
+        q = collections.deque()
 
-        res = []
-        Q = collections.deque()
         for i in range(numCourses):
-            if indegrees[i]==0:
-                Q.append(i)
-        
-        while Q:
-            node = Q.popleft()
-            res.append(node)
+            if indegrees[i] == 0:
+                q.append(i)
+
+        # print(f"adj : {adj} \nindegrees : {indegrees} \nq : {q}")
+
+
+        toposort = []
+        while q:
+            node = q.popleft()
+            toposort.append(node)
 
             for ngh in adj[node]:
-
                 indegrees[ngh] -= 1
+                # print(f" indegrees : {indegrees}")
                 if indegrees[ngh] == 0:
-                    Q.append(ngh)
-        
-        return res[::-1] if len(res)==numCourses else []
-        
+                    q.append(ngh)
+
+        # print(f"toposort : {toposort}")
+        return toposort if len(toposort)==numCourses else []
