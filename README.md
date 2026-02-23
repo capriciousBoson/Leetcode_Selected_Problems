@@ -93,6 +93,7 @@ My Solutions to some selected Leetcode problems.
 | [0907-koko-eating-bananas](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0983-minimum-cost-for-tickets) |
+| [0994-rotting-oranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -193,6 +194,7 @@ My Solutions to some selected Leetcode problems.
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0994-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
@@ -507,6 +509,7 @@ My Solutions to some selected Leetcode problems.
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Math
