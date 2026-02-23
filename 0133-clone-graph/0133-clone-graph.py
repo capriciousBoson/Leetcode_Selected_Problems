@@ -22,6 +22,8 @@ class Solution:
                 if ngh not in node_map:
                     q.append(ngh)
         # print(f"node: map  :\n{node_map}")
+
+        
         for old, new in node_map.items():
             for ngh in old.neighbors:
                 new.neighbors.append(node_map[ngh])
