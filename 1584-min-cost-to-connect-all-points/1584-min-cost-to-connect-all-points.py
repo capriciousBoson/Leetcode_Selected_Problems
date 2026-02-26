@@ -10,20 +10,20 @@ class Solution:
 
         
         
-        heapq.heappush(h, (0, 0,-1))
+        heapq.heappush(h, (0, 0))
         visited = [False for _ in points]
 
         print(f"h : {h}")
         res = 0
         while h:
-            d,node, parent = heapq.heappop(h)
+            d,node = heapq.heappop(h)
             if visited[node]: continue
             visited[node] = True
             res += d
             for idx in range(n):
-                if idx == node or idx==parent : continue
+                if visited[idx] : continue
                 d_ = weight(node, idx)
-                heapq.heappush(h, (d_, idx, node))
+                heapq.heappush(h, (d_, idx))
 
         return res
 
