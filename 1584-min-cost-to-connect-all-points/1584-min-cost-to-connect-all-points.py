@@ -15,11 +15,13 @@ class Solution:
 
         print(f"h : {h}")
         res = 0
-        while h:
+        edges = 0
+        while h and edges < n:
             d,node = heapq.heappop(h)
             if visited[node]: continue
             visited[node] = True
             res += d
+            edges += 1
             for idx in range(n):
                 if visited[idx] : continue
                 d_ = weight(node, idx)
