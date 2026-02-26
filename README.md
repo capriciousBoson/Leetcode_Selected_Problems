@@ -19,6 +19,7 @@ My Solutions to some selected Leetcode problems.
 | [0211-design-add-and-search-words-data-structure](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
@@ -73,6 +74,7 @@ My Solutions to some selected Leetcode problems.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -166,6 +168,7 @@ My Solutions to some selected Leetcode problems.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0547-number-of-provinces) |
@@ -251,6 +254,7 @@ My Solutions to some selected Leetcode problems.
 | [0217-contains-duplicate](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0455-assign-cookies) |
@@ -265,6 +269,7 @@ My Solutions to some selected Leetcode problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
@@ -578,5 +583,10 @@ My Solutions to some selected Leetcode problems.
 | [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
