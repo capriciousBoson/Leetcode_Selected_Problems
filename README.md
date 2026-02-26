@@ -103,6 +103,7 @@ My Solutions to some selected Leetcode problems.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1539-kth-missing-positive-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
@@ -551,6 +552,7 @@ My Solutions to some selected Leetcode problems.
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Memoization
 |  |
@@ -576,6 +578,7 @@ My Solutions to some selected Leetcode problems.
 | [0130-surrounded-regions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -585,6 +588,7 @@ My Solutions to some selected Leetcode problems.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
 |  |
 | ------- |
