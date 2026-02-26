@@ -5,16 +5,16 @@ class Solution:
         for eid, (u,v) in enumerate(tickets):
             heapq.heappush(adj[u], (v, eid))
 
-        visited = [False for _ in tickets]
+        # visited = [False for _ in tickets]
 
         res = []
         
         def dfs(u):
             while adj[u]:
                 ngh, eid = heapq.heappop(adj[u])
-                if visited[eid]:
-                    continue
-                visited[eid] = True
+                # if visited[eid]:
+                #     continue
+                # visited[eid] = True
                 dfs(ngh)
             
             res.append(u)
