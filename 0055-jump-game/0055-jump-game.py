@@ -9,5 +9,7 @@ class Solution:
         while i <= n:
             if i > max_jump: return False
             max_jump = max(i+nums[i], max_jump)
-            i += 1       
+            i += 1   
+            if max_jump >= n:
+                return True    
         return True   
