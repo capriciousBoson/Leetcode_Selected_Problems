@@ -4,9 +4,9 @@ class Solution:
 
         if sum(diff) <0: return -1
 
-        print(f"g : {gas}")
-        print(f"c : {cost}")
-        print(f"d : {diff}")
+        # print(f"g : {gas}")
+        # print(f"c : {cost}")
+        # print(f"d : {diff}")
 
         total = 0
         res = 0
