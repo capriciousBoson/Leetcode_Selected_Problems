@@ -25,6 +25,7 @@ My Solutions to some selected Leetcode problems.
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1143-longest-common-subsequence) |
@@ -328,6 +329,7 @@ My Solutions to some selected Leetcode problems.
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
@@ -344,6 +346,7 @@ My Solutions to some selected Leetcode problems.
 | [0455-assign-cookies](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
@@ -465,6 +468,7 @@ My Solutions to some selected Leetcode problems.
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Bucket Sort
 |  |
