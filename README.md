@@ -107,6 +107,7 @@ My Solutions to some selected Leetcode problems.
 | [1539-kth-missing-positive-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1706-min-cost-to-connect-all-points) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -346,6 +347,7 @@ My Solutions to some selected Leetcode problems.
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Counting
 |  |
 | ------- |
