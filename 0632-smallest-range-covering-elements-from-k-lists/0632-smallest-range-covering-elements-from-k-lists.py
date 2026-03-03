@@ -23,9 +23,9 @@ class Solution:
 
             if idx == len(nums[k]) - 1:
                 break
-            else:
-                heapq.heappush(heap, [nums[k][idx+1], idx+1, k])
-                right = max(right, nums[k][idx+1])
+            
+            heapq.heappush(heap, [nums[k][idx+1], idx+1, k])
+            right = max(right, nums[k][idx+1])
             # print(f" heap  :{heap}")
         return res
 
