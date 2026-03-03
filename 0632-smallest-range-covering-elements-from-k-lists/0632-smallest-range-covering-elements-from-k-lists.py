@@ -1,10 +1,12 @@
 class Solution:
     def smallestRange(self, nums: List[List[int]]) -> List[int]:
         heap = []
+        right = -float('inf')
         for k, l in enumerate(nums):
             heapq.heappush(heap, [l[0],0, k])
+            right = max(right, l[0])
 
-        right = max([l[0] for l in nums])
+        # right = max([l[0] for l in nums])
         min_range = float('inf')
         res = []
 
