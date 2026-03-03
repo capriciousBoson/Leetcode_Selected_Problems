@@ -3,7 +3,7 @@ class Solution:
         freqs = collections.Counter(words)
         heap = []
         for word, freq in freqs.items():
-            heapq.heappush(heap, [-freq, word])
+            heapq.heappush(heap, (-freq, word))
         
         res = []
         for _ in range(k):
