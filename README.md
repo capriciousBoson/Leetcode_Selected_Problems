@@ -87,6 +87,7 @@ My Solutions to some selected Leetcode problems.
 | [0518-coin-change-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -264,6 +265,7 @@ My Solutions to some selected Leetcode problems.
 | [0435-non-overlapping-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
@@ -279,6 +281,7 @@ My Solutions to some selected Leetcode problems.
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
@@ -328,6 +331,7 @@ My Solutions to some selected Leetcode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
@@ -346,6 +350,7 @@ My Solutions to some selected Leetcode problems.
 | [0435-non-overlapping-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
@@ -500,6 +505,7 @@ My Solutions to some selected Leetcode problems.
 | [0239-sliding-window-maximum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
