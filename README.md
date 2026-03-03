@@ -380,6 +380,7 @@ My Solutions to some selected Leetcode problems.
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 ## Tree
 |  |
@@ -468,6 +469,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -498,6 +500,7 @@ My Solutions to some selected Leetcode problems.
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Doubly-Linked List
 |  |
@@ -529,6 +532,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
