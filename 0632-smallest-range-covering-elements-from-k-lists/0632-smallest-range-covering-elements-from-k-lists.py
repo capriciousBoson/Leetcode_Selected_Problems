@@ -1,32 +1,30 @@
+import heapq
+
 class Solution:
-    def smallestRange(self, nums: List[List[int]]) -> List[int]:
+    def smallestRange(self, nums):
+        k = len(nums)
         heap = []
-        right = -float('inf')
-        for k, l in enumerate(nums):
-            heapq.heappush(heap, [l[0],0, k])
-            right = max(right, l[0])
-
-        # right = max([l[0] for l in nums])
-        min_range = float('inf')
-        res = []
-
+        current_max = float('-inf')
+        
+        for i in range(k):
+            val = nums[i][0]
+            heapq.heappush(heap, (val, i, 0))
+            current_max = max(current_max, val)
+        
+        best_range = [-10**5, 10**5]
+        
         while True:
+            min_val, row, col = heapq.heappop(heap)
             
-            left, idx, k = heapq.heappop(heap)
-            # print(f"\nleft,right :{left, right} , idx, k : { idx, k} ")
-
-
-            curr_range = right - left
-            if curr_range < min_range:
-                min_range = curr_range
-                res = [left, right]
-
-            if idx == len(nums[k]) - 1:
+            if current_max - min_val < best_range[1] - best_range[0]:
+                best_range = [min_val, current_max]
+            
+            if col + 1 == len(nums[row]):
                 break
             
-            heapq.heappush(heap, [nums[k][idx+1], idx+1, k])
-            right = max(right, nums[k][idx+1])
-            # print(f" heap  :{heap}")
-        return res
-
-
+            next_val = nums[row][col + 1]
+            heapq.heappush(heap, (next_val, row, col + 1))
+            current_max = max(current_max, next_val)
+        
+        return best_range
+        
