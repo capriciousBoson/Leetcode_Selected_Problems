@@ -7,7 +7,7 @@ class StockSpanner:
     def next(self, price: int) -> int:
         self.price_history.append(price)
 
-        while self.monotonic_stck[-1]!= -1 and price> self.price_history[self.monotonic_stck[-1]]:
+        while self.monotonic_stck[-1]!= -1 and price >= self.price_history[self.monotonic_stck[-1]]:
             self.monotonic_stck.pop()
 
         last_idx = self.monotonic_stck[-1]
