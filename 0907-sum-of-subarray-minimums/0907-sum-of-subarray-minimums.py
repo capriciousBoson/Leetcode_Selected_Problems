@@ -14,15 +14,19 @@ class Solution:
             right_min[i] = stk[-1]
             stk.append(i)
         
+       
+        # for i in range(n):
+        #     while stk[-1]!= -1 and arr[stk[-1]] >= arr[i]:
+        #         stk.pop()
+        #     left_min[i] = stk[-1]
+        #     stk.append(i)
         stk = [-1]
+        res = 0
         for i in range(n):
             while stk[-1]!= -1 and arr[stk[-1]] >= arr[i]:
                 stk.pop()
             left_min[i] = stk[-1]
             stk.append(i)
-        
-        res = 0
-        for i in range(n):
             res += (i-left_min[i]) * ( right_min[i]-i)*arr[i]
         return res%MOD
 
