@@ -2,6 +2,7 @@ class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         ns = [-1 for n in heights]
         ps = [-1 for n in heights]
+        res = 0
 
         n = len(heights)
         stk = [n]
@@ -17,10 +18,10 @@ class Solution:
                 stk.pop()
             ps[i] = stk[-1]
             stk.append(i)
-        
-        res = 0
-        for i in range(n):
+
+            # calculate area for current height
             area = heights[i]*(ns[i]-ps[i]-1)
             res = max(res, area)
+
         return res
         
