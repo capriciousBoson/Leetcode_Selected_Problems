@@ -123,6 +123,7 @@ My Solutions to some selected Leetcode problems.
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2104-sum-of-subarray-ranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Dynamic Programming
@@ -519,6 +520,7 @@ My Solutions to some selected Leetcode problems.
 | [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -556,6 +558,7 @@ My Solutions to some selected Leetcode problems.
 | [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
