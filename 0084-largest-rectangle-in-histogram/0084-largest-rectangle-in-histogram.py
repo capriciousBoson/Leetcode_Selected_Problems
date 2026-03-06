@@ -7,10 +7,9 @@ class Solution:
         for i in range(n):
             while stk[-1]!=-1 and heights[stk[-1]] >= heights[i]:
                 idx = stk.pop()
-                ps = stk[-1]
+                ps = stk[-1] 
                 ns = i
                 area = heights[idx]*(ns-ps-1)
-                print()
                 res = max(res, area)
             stk.append(i)
         
