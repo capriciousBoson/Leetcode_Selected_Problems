@@ -1,6 +1,6 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        ns = [-1 for n in heights]
+        ns = {}
         # ps = [-1 for n in heights]
         res = 0
 
