@@ -20,6 +20,7 @@ My Solutions to some selected Leetcode problems.
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
+| [0402-remove-k-digits](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
@@ -356,6 +357,7 @@ My Solutions to some selected Leetcode problems.
 | [0055-jump-game](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0455-assign-cookies) |
@@ -500,6 +502,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0402-remove-k-digits](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
@@ -536,6 +539,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
