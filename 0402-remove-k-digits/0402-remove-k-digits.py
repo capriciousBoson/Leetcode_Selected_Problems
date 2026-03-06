@@ -14,7 +14,7 @@ class Solution:
             
             i += 1
 
-        print(f"stk : {stk}, i : {i}")
+        # print(f"stk : {stk}, i : {i}")
         while c < k:
             stk.pop()
             c += 1
