@@ -1,13 +1,16 @@
+from bisect import bisect_right
 class SnapshotArray:
 
     def __init__(self, length: int):
         self.arr = [{0:0} for _ in range(length)]
         # self.snapshots = {}
         self.snaps = 0
+        # self.last_added_snap = 0
         
 
     def set(self, index: int, val: int) -> None:
         self.arr[index][self.snaps] = val
+        # self.last_added_snap = self.snaps
         
 
     def snap(self) -> int:
@@ -19,11 +22,10 @@ class SnapshotArray:
         
 
     def get(self, index: int, snap_id: int) -> int:
-        s = snap_id
-        while s not in self.arr[index]:
-            s -= 1
+        keys = sorted(self.arr[index].keys())         # snap_ids where this index changed
+        pos = bisect_right(keys, snap_id) - 1 
 
-        return self.arr[index][s]
+        return self.arr[index][keys[pos]]
         
 
 
