@@ -114,6 +114,7 @@ My Solutions to some selected Leetcode problems.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1146-snapshot-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1146-snapshot-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1539-kth-missing-positive-number) |
@@ -356,6 +357,7 @@ My Solutions to some selected Leetcode problems.
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1146-snapshot-array) |
 ## Greedy
 |  |
 | ------- |
@@ -394,6 +396,7 @@ My Solutions to some selected Leetcode problems.
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1146-snapshot-array) |
 ## Tree
 |  |
 | ------- |
@@ -448,6 +451,7 @@ My Solutions to some selected Leetcode problems.
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1146-snapshot-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1146-snapshot-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1539-kth-missing-positive-number) |
