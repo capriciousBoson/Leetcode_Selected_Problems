@@ -85,7 +85,7 @@ class LRUCache:
 
     def put(self, key: int, value: int) -> None:
         # print(f"\nPUT call for  key,val : {key,value} ----")
-        self.dll.show()
+        # self.dll.show()
 
         if key not in self.node_map: #insert a new node
             # print(f"inserting a new node with key,val : {key,value} --------")    
@@ -109,7 +109,7 @@ class LRUCache:
             self.key_map[node] = key
             self.dll.insert_at_end(node)
             # print(f"inserted new node with key, val :  {key, value}")
-            self.dll.show()
+            # self.dll.show()
             # print(f"node_map : {self.node_map}")
             # print(f"key_map : {self.key_map}")
             self.capacity -= 1
