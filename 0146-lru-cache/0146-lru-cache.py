@@ -94,7 +94,7 @@ class LRUCache:
                 # print(f"capacity reached : {self.capacity}")
                 deleted_node = self.dll.delete_front_node()
                 # print(f"after deletiong front : ")
-                self.dll.show()
+                # self.dll.show()
                 # print(f"head :{self.dll.head.val} | tail : {self.dll.tail.val}")
                 # print(f"deletd front node : {deleted_node.val}")
                 deleted_key = self.key_map[deleted_node]
