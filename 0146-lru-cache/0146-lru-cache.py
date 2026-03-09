@@ -18,6 +18,9 @@ class DoublyLinkedList:
         next_node = node.next
         next_node.prev = prev_node
         prev_node.next = next_node
+
+        node.next = None
+        node.prev = None
         
         return node
 
@@ -25,6 +28,8 @@ class DoublyLinkedList:
         node = self.head.next
         self.head.next = self.head.next.next
         node.next.prev = self.head
+        node.next = None
+        node.prev = None
         return node
 
     
