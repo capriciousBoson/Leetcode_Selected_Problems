@@ -2,38 +2,33 @@ class MyCalendar:
 
     def __init__(self):
         self.intervals = []
-        # self.start_times = {}
-        # self.end_times = {}
+
 
         
 
     def book(self, startTime: int, endTime: int) -> bool:
+        # print(f"\nnew interval : {[startTime, endTime]}")
+        # print(f"current intervals : {self.intervals}")
+        idx =  bisect.bisect_left(self.intervals, [startTime, endTime])
 
-        # if startTime in self.start_times or endTime in self.end_times:
-        #     return False
-        # print(f"\nalready booked : {self.intervals}")
-        # print(f"new interval : {[startTime, endTime]}")
+        # print(f"bisect left : {idx} ")
+
+        if idx-1 >= 0:
+            previous_event = self.intervals[idx-1]
+            if previous_event[0] <= startTime < previous_event[1]:
+                return False
+
+        if idx < len(self.intervals):
+            next_event = self.intervals[idx]
+            if next_event[0] < endTime :
+                return False
+            
+            
         
-        for interval in self.intervals:
-            if interval[0] <= startTime <interval[1]:
-                # print(f"conflict with : {interval}")
-                return False
-            if interval[0] < endTime <=interval[1] : 
-                # print(f"conflict with : {interval}")
-                return False
-
-            if startTime <= interval[0] and endTime >= interval[1]:
-                # print(f"conflict with : {interval}")
-                return False
-    
-        # print(f"no conflict ---")
-        i = len(self.intervals)
-        self.intervals.append([startTime, endTime])
-        # self.start_times[startTime] = i
-        # self.end_times[endTime] = i
+        bisect.insort(self.intervals, [startTime, endTime])
         return True
 
-        
+
 
 
 # Your MyCalendar object will be instantiated and called as such:
