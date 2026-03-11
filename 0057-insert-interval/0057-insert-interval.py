@@ -10,12 +10,12 @@ class Solution:
 
 
         if idx-1 >= 0 and intervals[idx-1][0] <= newInterval[0] <= intervals[idx-1][1]:
-            print(f"adding to left")
+            # print(f"adding to left")
             intervals[idx-1][1] = max(intervals[idx-1][1], newInterval[1])
             merge_idx = idx-1
 
         elif idx < n and  newInterval[1] >= intervals[idx][0] >= newInterval[0] : 
-            print(f"adding to right")
+            # print(f"adding to right")
             intervals[idx][0] = newInterval[0]
             intervals[idx][1] = max(intervals[idx][1], newInterval[1])
 
