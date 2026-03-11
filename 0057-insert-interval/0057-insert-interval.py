@@ -1,40 +1,36 @@
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         n = len(intervals)
-        if n==0:
+        if n == 0: 
             return [newInterval]
-        res = []
 
-        i = 0
-        inserted =  False
-        while i<n:
-            # new_start, new_end = newInterval[0], newInterval[1]
-            # curr_start, curr_end = intervals[i][0], intervals[i][1]
-            # print(f"\nintervals[{i}] : {intervals[i]}")
-            if not inserted and newInterval[0] < intervals[i][0] and newInterval[1]<intervals[i][0]:
-                res.append(newInterval)
-                inserted  = True
-                continue
-            if (
-                not inserted
-                and intervals[i][0] <=  newInterval[0] <= intervals[i][1]
-                or newInterval[0] <= intervals[i][0] <= newInterval[1] ):
+        idx  = bisect.bisect_left(intervals, newInterval)
 
-                start = min(intervals[i][0], newInterval[0])
-                while i < n and newInterval[1] > intervals[i][1]:
-                    i += 1
-                if  i< n and newInterval[1] >= intervals[i][0]:
-                    end = max(newInterval[1], intervals[i][1])
-                    i += 1
-                    
-                else:
-                    end = newInterval[1]
+        merge_idx = -1
 
-                res.append([start, end])
-                inserted = True
-                continue
-            res.append(intervals[i])
-            i += 1
-        if not inserted:
-            res.append(newInterval)
-        return res
+
+        if idx-1 >= 0 and intervals[idx-1][0] <= newInterval[0] <= intervals[idx-1][1]:
+            print(f"adding to left")
+            intervals[idx-1][1] = max(intervals[idx-1][1], newInterval[1])
+            merge_idx = idx-1
+
+        elif idx < n and  newInterval[1] >= intervals[idx][0] >= newInterval[0] : 
+            print(f"adding to right")
+            intervals[idx][0] = newInterval[0]
+            intervals[idx][1] = max(intervals[idx][1], newInterval[1])
+
+            merge_idx = idx
+        
+        else:
+            bisect.insort(intervals, newInterval)
+    
+        if merge_idx != -1:
+            i = merge_idx
+            while i+1 < len(intervals) and intervals[i][1] >= intervals[i+1][0]:
+                intervals[i][1] = max(intervals[i][1], intervals[i+1][1])
+                intervals.pop(i+1)
+                
+
+        return intervals
+
+        
