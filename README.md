@@ -129,6 +129,7 @@ My Solutions to some selected Leetcode problems.
 | [2104-sum-of-subarray-ranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -292,6 +293,7 @@ My Solutions to some selected Leetcode problems.
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -312,6 +314,7 @@ My Solutions to some selected Leetcode problems.
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -368,6 +371,7 @@ My Solutions to some selected Leetcode problems.
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1146-snapshot-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -688,6 +692,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0735-asteroid-collision) |
+| [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
 ## Sweep Line
 |  |
 | ------- |
