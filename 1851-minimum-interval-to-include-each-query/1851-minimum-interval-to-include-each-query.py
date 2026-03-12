@@ -3,15 +3,15 @@ class Solution:
         
         
         queries2 = [[i,q] for i,q in enumerate(queries)]
-        queries2.sort(key = lambda x: x[0])
+        queries2.sort(key = lambda x: x[1])
 
         intervals.sort(key = lambda x: x[0])
 
         res = [-1 for _ in queries]
         idx = 0
-
+        minHeap  = []
         for i,q in queries2:
-            minHeap  = []
+            
 
             while idx < len(intervals) and q >= intervals[idx][0]:
                 s,e = intervals[idx]
