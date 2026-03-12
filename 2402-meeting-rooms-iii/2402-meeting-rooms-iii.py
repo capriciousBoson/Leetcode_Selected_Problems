@@ -26,7 +26,7 @@ class Solution:
             heapq.heappush(busy, [new_end_time, r])
             counts[r] +=1
 
-        print(f"counts : {counts}")
+        # print(f"counts : {counts}")
         max_rooms = max(counts)
         for i,c in enumerate(counts):
             if c==max_rooms:
