@@ -117,6 +117,7 @@ My Solutions to some selected Leetcode problems.
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1146-snapshot-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1146-snapshot-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
@@ -289,6 +290,7 @@ My Solutions to some selected Leetcode problems.
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -311,6 +313,7 @@ My Solutions to some selected Leetcode problems.
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -391,6 +394,7 @@ My Solutions to some selected Leetcode problems.
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Counting
 |  |
