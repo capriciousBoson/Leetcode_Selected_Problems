@@ -15,14 +15,14 @@ class Solution:
         for day in range(max_days+1):
             while idx < n and sorted_events[idx][0] <= day:
                 s,e = sorted_events[idx]
-                heapq.heappush(heap, [e,s])
+                heapq.heappush(heap, e)
                 idx += 1
             
-            while heap and heap[0][0] < day:
+            while heap and heap[0] < day:
                 heapq.heappop(heap)
 
             if heap : 
-                e,s = heapq.heappop(heap)
+                e = heapq.heappop(heap)
                 # visited[event] = True
                 res += 1
 
