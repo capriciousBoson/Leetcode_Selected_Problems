@@ -6,8 +6,6 @@ class Solution:
         for idx, [s,e,t] in enumerate(rides):
             start_times[s].append(idx)
 
-       
-        idx = 0 # for rides
         res = 0
         memo = {}
 
