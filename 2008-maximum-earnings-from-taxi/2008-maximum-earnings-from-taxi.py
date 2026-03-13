@@ -1,10 +1,11 @@
 class Solution:
     def maxTaxiEarnings(self, n: int, rides: List[List[int]]) -> int:
-        # rides.sort(key = lambda x : x[1])
 
         start_times = collections.defaultdict(list)
+        min_start = float('inf')
         for idx, [s,e,t] in enumerate(rides):
             start_times[s].append(idx)
+            min_start = min(min_start, s)
 
         res = 0
         memo = {}
@@ -29,6 +30,7 @@ class Solution:
                 max_profit = max(max_profit, dfs(i+1))
                 memo[i] = max_profit
             return memo[i]
-        return dfs(1)
+
+        return dfs(min_start)
 
 
