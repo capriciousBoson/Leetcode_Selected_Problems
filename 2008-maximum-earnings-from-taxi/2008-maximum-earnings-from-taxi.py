@@ -19,11 +19,13 @@ class Solution:
 
             if i not in memo : 
                 max_profit = 0
+                # next_idx = i+1
                 for idx in start_times[i]:
                     s,e,t = rides[idx]
                     profit = e-s+t 
                     while e < n+2 and e not in start_times:
                         e += 1
+                    next_idx = e
                     profit += dfs(e)
                     max_profit = max(max_profit, profit)
 
