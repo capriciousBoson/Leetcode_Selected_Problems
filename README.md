@@ -31,6 +31,7 @@ My Solutions to some selected Leetcode problems.
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1143-longest-common-subsequence) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
 | ------- |
@@ -376,6 +377,7 @@ My Solutions to some selected Leetcode problems.
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1146-snapshot-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2008-maximum-earnings-from-taxi](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
@@ -406,6 +408,7 @@ My Solutions to some selected Leetcode problems.
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Design
 |  |
 | ------- |
