@@ -29,6 +29,7 @@ My Solutions to some selected Leetcode problems.
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1143-longest-common-subsequence) |
@@ -401,6 +402,7 @@ My Solutions to some selected Leetcode problems.
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Counting
@@ -556,6 +558,7 @@ My Solutions to some selected Leetcode problems.
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Doubly-Linked List
