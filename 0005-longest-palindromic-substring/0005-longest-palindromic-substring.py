@@ -1,7 +1,7 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         max_length = 0
-        max_str = ""
+        max_str = (0,0)
         n = len(s)
 
         
@@ -15,9 +15,9 @@ class Solution:
                     length = r-l + 1
                     if  length > max_length:
                         max_length = length
-                        max_str  = s[l:r+1]
+                        max_str  = (l,r)
                     l -=1
                     r +=1
                     
 
-        return max_str
+        return s[max_str[0]:max_str[1]+1]
