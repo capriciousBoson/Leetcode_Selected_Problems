@@ -8,6 +8,7 @@ My Solutions to some selected Leetcode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0072-edit-distance) |
@@ -529,6 +530,7 @@ My Solutions to some selected Leetcode problems.
 | [0011-container-with-most-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -719,5 +721,6 @@ My Solutions to some selected Leetcode problems.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
