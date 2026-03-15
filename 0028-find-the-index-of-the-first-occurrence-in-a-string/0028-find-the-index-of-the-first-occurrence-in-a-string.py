@@ -11,12 +11,14 @@ class Solution:
             if needle[left] == needle[right]:
                 prefix[right] = left + 1
                 left += 1
+                right += 1
 
             else:
                 if left > 0 :
                     left = prefix[left-1]
-                    continue
-            right += 1
+                else:
+                    right += 1
+                    
 
         
         n,h = 0,0
