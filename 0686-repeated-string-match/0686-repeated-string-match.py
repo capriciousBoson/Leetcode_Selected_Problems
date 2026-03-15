@@ -10,14 +10,8 @@ class Solution:
 
         for x in range( t+2):
             ra = a * x  
-            # print(f"checking for sbustring in ra : {ra}, x :{x}")
             for i in range(0, na*(x)-nb+1):
-                # print(f"starting at ra[{i}] = {ra[i]} ")
-                if b[0]==ra[i]:
-                    m = i + nb
-                    # print(f"nb :{nb}, i : {i}, m : {m}")
-                    
-                    # print(f"b : {b} and substr  : {ra[i:m]}")
-                    if b == ra[i:m]:
-                        return x
+                
+                if b in ra:
+                    return x
         return -1 
