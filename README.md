@@ -28,6 +28,7 @@ My Solutions to some selected Leetcode problems.
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -715,4 +716,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
