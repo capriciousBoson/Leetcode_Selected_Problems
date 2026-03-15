@@ -7,9 +7,25 @@ class Solution:
         t  = 2
         if na <= nb:
             t += nb//na
+        ra = a
+        
+        l = 0
+        while l < len(a):
+            i = 0
+            r = l
+            count = 1
+            while a[r] == b[i]:
+                # print(f"count = {count} | a[{r}] = {a[r]} | b[{i}] = {b[i]}")
+                r += 1
+                i += 1
+                if i == len(b):
+                    return count
+                if r == len(a):
+                    r = 0
+                    count += 1
+            
+            l += 1
+            if count > t:
+                break
 
-        for x in range( t+2):
-            ra = a * x  
-            if b in ra:
-                return x
-        return -1 
+        return -1
