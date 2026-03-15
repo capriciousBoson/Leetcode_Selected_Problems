@@ -15,6 +15,5 @@ class Solution:
                     right += 1
         
 
-        if LPS[-1]:
-            return s[0:LPS[-1]]
-        return ""
+  
+        return  s[0:LPS[-1]]
