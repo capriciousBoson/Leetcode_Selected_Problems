@@ -10,8 +10,6 @@ class Solution:
 
         for x in range( t+2):
             ra = a * x  
-            for i in range(0, na*(x)-nb+1):
-                
-                if b in ra:
-                    return x
+            if b in ra:
+                return x
         return -1 
