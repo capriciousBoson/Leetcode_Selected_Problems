@@ -36,6 +36,7 @@ My Solutions to some selected Leetcode problems.
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1143-longest-common-subsequence) |
+| [1392-longest-happy-prefix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1392-longest-happy-prefix) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
@@ -723,4 +724,13 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
