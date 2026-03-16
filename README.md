@@ -96,6 +96,7 @@ My Solutions to some selected Leetcode problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0503-next-greater-element-ii) |
@@ -265,10 +266,12 @@ My Solutions to some selected Leetcode problems.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0729-my-calendar-i) |
 ## Divide and Conquer
@@ -281,6 +284,7 @@ My Solutions to some selected Leetcode problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -351,6 +355,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -474,6 +479,7 @@ My Solutions to some selected Leetcode problems.
 | [0240-search-a-2d-matrix-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0729-my-calendar-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0729-my-calendar-i) |
@@ -710,6 +716,7 @@ My Solutions to some selected Leetcode problems.
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
