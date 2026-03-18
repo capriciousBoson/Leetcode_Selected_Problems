@@ -8,8 +8,8 @@ class Solution:
         diff = float('inf')
 
         for i in range(n-2):
-            # if i >0 and nums[i]==nums[i+1]:
-            #     continue
+            if i >0 and nums[i]==nums[i-1]:
+                continue
             
             l,r = i+1, n-1
             while l<r:
