@@ -17,6 +17,9 @@ class Solution:
 
             # print(f"\na  {nums[a]} -----------------")
             for b in range(a+1, n-2):
+
+                if nums[a]+sum(nums[b:b+3]) > target: break
+                if nums[a]+nums[b] + sum(nums[n-2:]) < target: continue
                 
 
                 if b>a+1 and nums[b]==nums[b-1]:
