@@ -7,6 +7,9 @@ class Solution:
 
         n = len(nums)
         for a in range(n-3):
+
+            if sum(nums[a:a+4]) > target: break
+            if nums[a]+sum(nums[n-3:]) < target: continue
             
             if a > 0 and nums[a] == nums[a-1]: 
                 # print(f"skipping a : {a}")
