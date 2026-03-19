@@ -104,6 +104,7 @@ My Solutions to some selected Leetcode problems.
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -387,6 +388,7 @@ My Solutions to some selected Leetcode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -609,6 +611,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
