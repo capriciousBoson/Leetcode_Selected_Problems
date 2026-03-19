@@ -2,7 +2,7 @@ class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
         diffs = {}
 
-        zeros = [0 for _ in nums] 
+        # zeros = [0 for _ in nums] 
         ones = [0 for _ in nums]
         c1,c0 = 0,0
 
@@ -11,9 +11,8 @@ class Solution:
             if nums[i]:
                 c1 += 1
                 ones[i] = c1
-            else:
-                c0 += 1
-                zeros[i] = c0
+
+            c0 = i-c1+1
             
             if c1-c0 not in diffs:
                 diffs[c1-c0] = i
