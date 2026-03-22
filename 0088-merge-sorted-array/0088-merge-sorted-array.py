@@ -14,7 +14,7 @@ class Solution:
                 end -= 1
                 continue
             
-            if nums1[i1] > nums2[i2]:
+            if nums1[i1] >= nums2[i2]:
                 nums1[end] = nums1[i1]
                 # nums1[i1] = 0
                 i1 -= 1
