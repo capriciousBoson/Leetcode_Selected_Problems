@@ -115,6 +115,7 @@ My Solutions to some selected Leetcode problems.
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
@@ -324,6 +325,7 @@ My Solutions to some selected Leetcode problems.
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
@@ -348,6 +350,7 @@ My Solutions to some selected Leetcode problems.
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -515,6 +518,7 @@ My Solutions to some selected Leetcode problems.
 | [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0729-my-calendar-i) |
 | [0783-search-in-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -590,6 +594,7 @@ My Solutions to some selected Leetcode problems.
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0881-boats-to-save-people) |
@@ -639,6 +644,7 @@ My Solutions to some selected Leetcode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
