@@ -89,6 +89,7 @@ My Solutions to some selected Leetcode problems.
 | [0213-house-robber-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0239-sliding-window-maximum) |
@@ -395,6 +396,7 @@ My Solutions to some selected Leetcode problems.
 | [0146-lru-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
@@ -629,6 +631,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
