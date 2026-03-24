@@ -9,20 +9,21 @@ class Solution:
 
         min_time = [float('inf') for _ in range(n+1)]
         min_time[k] = 0
-        q = collections.deque([[k, 0]])
+        q = [[0,k]]
 
         while q:
-            node,t = q.popleft()
+            t, node = heapq.heappop(q)
 
             if node not in adj:
                 continue
             for ngh,nt in adj[node]:
                 if t+nt < min_time[ngh]:
                     min_time[ngh] = t+nt
-                    q.append([ngh, min_time[ngh]])
+                    # q.append([ngh, min_time[ngh]])
+                    heapq.heappush(q, [min_time[ngh], ngh])
         
         max_time = max(min_time[1:])
-        print(f"max_time : {max_time} | \nmin_times : {min_time}")
+        # print(f"max_time : {max_time} | \nmin_times : {min_time}")
         if max_time == float('inf'):
             return -1
         return max_time
