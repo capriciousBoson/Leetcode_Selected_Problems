@@ -1,38 +1,42 @@
 class Solution:
     def makeConnected(self, n: int, connections: List[List[int]]) -> int:
-        if len(connections) < n-1:
+
+        num_edges = len(connections)
+
+        if num_edges < n-1 : 
             return -1
 
-        adj = {}
-        for u,v in connections:
-            if u not in adj:
-                adj[u] = []
-            if v not in adj:
-                adj[v] = []
-            
-            adj[u].append(v)
-            adj[v].append(u)
+        parent = [i for i in range(n)]
+        rank = [0 for i in range(n)]
         
-        visited = [False for _ in range(n)]
-        mst_edges = 0
+        def findParent(x):
+            if parent[x] != x:
+                parent[x] = findParent(parent[x])
+            return parent[x]
 
-        q = collections.deque()
+        def union(u,v):
 
+            root_u = findParent(u)
+            root_v = findParent(v)
+
+            if root_u == root_v:
+                return
+            
+            elif rank[root_u] < rank[root_v]:
+                parent[root_u] = root_v
+            elif rank[root_u] > rank[root_v]:
+                parent[root_v] = root_u
+            else:
+                parent[root_u] = root_v
+                rank[root_v] += 1
+
+        for u,v in connections:
+            union(u,v)   
+
+        components = set()
         for i in range(n):
-            if not visited[i]:
-                if i not in adj:
-                    continue
-                q.append([i, adj[i][0]])
-                visited[i] = True
+            components.add(findParent(i))    
+        return len(components) - 1   
 
-                while q:
-                    parent, node = q.popleft()
-                    visited[node] = True
-                    mst_edges += 1
-                    for ngh in adj[node]:
-                        if not visited[ngh]:
-                            q.append([node, ngh])
-
-        return len(connections) - mst_edges
 
         
