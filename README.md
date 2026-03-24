@@ -233,6 +233,7 @@ My Solutions to some selected Leetcode problems.
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
@@ -261,6 +262,7 @@ My Solutions to some selected Leetcode problems.
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
@@ -759,6 +761,7 @@ My Solutions to some selected Leetcode problems.
 | [0130-surrounded-regions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -770,6 +773,7 @@ My Solutions to some selected Leetcode problems.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
 |  |
