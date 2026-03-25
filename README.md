@@ -336,6 +336,7 @@ My Solutions to some selected Leetcode problems.
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0881-boats-to-save-people) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -734,6 +735,7 @@ My Solutions to some selected Leetcode problems.
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Memoization
@@ -762,6 +764,7 @@ My Solutions to some selected Leetcode problems.
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0695-max-area-of-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -774,6 +777,7 @@ My Solutions to some selected Leetcode problems.
 | [0332-reconstruct-itinerary](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
 |  |
@@ -809,4 +813,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1392-longest-happy-prefix) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
