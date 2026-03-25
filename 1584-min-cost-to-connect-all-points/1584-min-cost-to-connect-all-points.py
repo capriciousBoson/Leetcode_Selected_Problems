@@ -19,9 +19,8 @@ class Solution:
             for ngh in range(n):
                 if visited[ngh] : continue
 
-                x,y = points[node]
-                i,j = points[ngh]
-                new_wt = abs(x-i) + abs(y-j)
+                new_wt = abs(points[node][0]-points[ngh][0]) \
+                        + abs(points[node][1]-points[ngh][1])
 
                 heapq.heappush(heap, [new_wt,ngh])
 
