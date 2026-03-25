@@ -21,14 +21,11 @@ class Solution:
                         left += 1
                     
                 chars[left] = chars[i]
-
                 current_count = 1
 
             i += 1
 
-        print(f"left : {left} | current_count = {current_count}")
-        print(f"chars[:left] : {chars[:left]}")
-        print(f"chars : {chars}")
+
 
         left += 1
         if current_count>1:
