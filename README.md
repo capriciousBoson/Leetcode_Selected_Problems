@@ -28,6 +28,7 @@ My Solutions to some selected Leetcode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
@@ -416,6 +417,7 @@ My Solutions to some selected Leetcode problems.
 | [0460-lfu-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0525-contiguous-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -471,6 +473,7 @@ My Solutions to some selected Leetcode problems.
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
@@ -814,6 +817,7 @@ My Solutions to some selected Leetcode problems.
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-longest-happy-prefix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1392-longest-happy-prefix) |
 ## Strongly Connected Component
 |  |
