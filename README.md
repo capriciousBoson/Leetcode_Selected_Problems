@@ -158,6 +158,7 @@ My Solutions to some selected Leetcode problems.
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2392-build-a-matrix-with-conditions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
+| [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -722,6 +723,7 @@ My Solutions to some selected Leetcode problems.
 | [0062-unique-paths](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -775,6 +777,7 @@ My Solutions to some selected Leetcode problems.
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
+| [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -827,4 +830,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
