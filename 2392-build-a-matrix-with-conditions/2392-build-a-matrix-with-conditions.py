@@ -21,7 +21,6 @@ class Solution:
 
     def buildMatrix(self, k: int, rowConditions: List[List[int]], colConditions: List[List[int]]) -> List[List[int]]:
         
-        matrix = [[0 for _ in range(k)] for __ in range(k)]
 
         row_indegrees = {i:0 for i in range(1,k+1)}
         row_adj = dict()
@@ -51,6 +50,7 @@ class Solution:
         
         row_idx =dict()
         col_idx =dict()
+        matrix = [[0 for _ in range(k)] for __ in range(k)]
 
         for i in range(k):
             row_idx[row_order[i]] = i
