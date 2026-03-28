@@ -156,6 +156,7 @@ My Solutions to some selected Leetcode problems.
 | [2104-sum-of-subarray-ranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2392-build-a-matrix-with-conditions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Dynamic Programming
@@ -283,6 +284,7 @@ My Solutions to some selected Leetcode problems.
 | [0207-course-schedule](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2392-build-a-matrix-with-conditions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2392-build-a-matrix-with-conditions) |
 ## Backtracking
 |  |
 | ------- |
@@ -711,6 +713,7 @@ My Solutions to some selected Leetcode problems.
 | [0994-rotting-oranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
+| [2392-build-a-matrix-with-conditions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2392-build-a-matrix-with-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Math
 |  |
@@ -784,6 +787,7 @@ My Solutions to some selected Leetcode problems.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
+| [2392-build-a-matrix-with-conditions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2392-build-a-matrix-with-conditions) |
 ## Eulerian Circuit
 |  |
 | ------- |
