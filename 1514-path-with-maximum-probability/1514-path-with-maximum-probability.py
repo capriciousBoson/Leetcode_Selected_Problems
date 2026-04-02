@@ -10,20 +10,21 @@ class Solution:
 
         heap = []
         heapq.heappush(heap, [-1, start_node])
-        visited = [False for i in range(n)]
+        max_probs = [-float('inf') for i in range(n)]
 
         # res = -float('inf')
 
         while heap:
             p,node = heapq.heappop(heap)
 
-            visited[node] = True
+            max_probs[node] = -p
 
             if node == end_node:
                 return -p
 
             for ngh, sp in adj[node]:
-                if not visited[ngh]:
+                if -p*sp > max_probs[ngh]:
+                    max_probs[ngh] = sp*p
 
                     heapq.heappush(heap, [p*sp, ngh])
 
