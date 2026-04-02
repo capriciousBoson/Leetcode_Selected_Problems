@@ -12,7 +12,7 @@ class Solution:
                 if grid[i][j]==1:
                     q.append((i,j, 0))
         
-        print(f"1s  : {q}")
+        # print(f"1s  : {q}")
 
         while q:
             x,y, s = q.popleft()
@@ -23,11 +23,11 @@ class Solution:
 
             for dx,dy in dirs:
                 x2,y2 = dx+x, dy+y
-                if 0<=x2<rows and 0<=y2<cols and safety[x2][y2]>s:
-                    q.append((x2,y2, s+abs(x-x2)+abs(y-y2)))
+                if 0<=x2<rows and 0<=y2<cols and safety[x2][y2]>s+1:
+                    q.append((x2,y2, s+1))
 
-        for r_ in safety:
-            print(r_)
+        # for r_ in safety:
+        #     print(r_)
         heap = [(-safety[0][0], 0,0 )]
         
         visited = [[0 for _ in range(cols)] for __ in range(rows)]
