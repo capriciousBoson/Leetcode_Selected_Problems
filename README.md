@@ -143,6 +143,7 @@ My Solutions to some selected Leetcode problems.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1514-path-with-maximum-probability](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
@@ -368,6 +369,7 @@ My Solutions to some selected Leetcode problems.
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1514-path-with-maximum-probability](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
@@ -742,6 +744,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1514-path-with-maximum-probability) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -789,6 +792,7 @@ My Solutions to some selected Leetcode problems.
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1514-path-with-maximum-probability](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2392-build-a-matrix-with-conditions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2392-build-a-matrix-with-conditions) |
 ## Eulerian Circuit
