@@ -1,16 +1,12 @@
 class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
 
-        eid = {}
-    
 
         adj = collections.defaultdict(list)
 
         for i,[u,v] in enumerate(edges):
-            adj[u].append(v)
-            adj[v].append(u)
-            eid[(u,v)] = i
-            eid[(v,u)] = i
+            adj[u].append([v, succProb[i]])
+            adj[v].append([u,succProb[i]])
 
         heap = []
         heapq.heappush(heap, [-1, start_node])
@@ -26,11 +22,10 @@ class Solution:
             if node == end_node:
                 return -p
 
-            for ngh in adj[node]:
-                print(f"ngh - {ngh}")
+            for ngh, sp in adj[node]:
                 if not visited[ngh]:
 
-                    heapq.heappush(heap, [p*succProb[eid[(ngh, node)]], ngh])
+                    heapq.heappush(heap, [p*sp, ngh])
 
     
         return 0
