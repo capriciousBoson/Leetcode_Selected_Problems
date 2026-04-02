@@ -160,6 +160,7 @@ My Solutions to some selected Leetcode problems.
 | [2392-build-a-matrix-with-conditions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
 | [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -271,6 +272,7 @@ My Solutions to some selected Leetcode problems.
 | [1376-time-needed-to-inform-all-employees](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -375,6 +377,7 @@ My Solutions to some selected Leetcode problems.
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -557,6 +560,7 @@ My Solutions to some selected Leetcode problems.
 | [1977-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2008-maximum-earnings-from-taxi](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2008-maximum-earnings-from-taxi) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -717,6 +721,7 @@ My Solutions to some selected Leetcode problems.
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2392-build-a-matrix-with-conditions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Math
 |  |
@@ -781,6 +786,7 @@ My Solutions to some selected Leetcode problems.
 | [1584-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 | [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
