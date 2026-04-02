@@ -4,7 +4,7 @@ class Solution:
 
         adj = [[] for i in range(n)]
 
-        for i,[u,v] in enumerate(edges):
+        for i,(u,v) in enumerate(edges):
             adj[u].append([v, succProb[i]])
             adj[v].append([u,succProb[i]])
 
