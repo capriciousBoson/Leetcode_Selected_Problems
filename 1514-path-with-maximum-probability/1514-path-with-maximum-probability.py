@@ -8,8 +8,7 @@ class Solution:
             adj[u].append([v, succProb[i]])
             adj[v].append([u,succProb[i]])
 
-        heap = []
-        heapq.heappush(heap, [-1, start_node])
+        heap = [[-1, start_node]]
         max_probs = [0 for i in range(n)]
         max_probs[start_node] = 1
 
