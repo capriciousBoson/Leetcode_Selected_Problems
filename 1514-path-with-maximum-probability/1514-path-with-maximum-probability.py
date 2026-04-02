@@ -8,18 +8,22 @@ class Solution:
             adj[v].append([u,i])
 
         heap = []
-        heapq.heappush(heap, [-1, start_node, -1])
+        heapq.heappush(heap, [-1, start_node])
+        visited = [False for i in range(n)]
 
         # res = -float('inf')
 
         while heap:
-            p,node, parent = heapq.heappop(heap)
+            p,node = heapq.heappop(heap)
+
+            visited[node] = True
+
             if node == end_node:
                 return -p
 
             for ngh, eid in adj[node]:
-                if ngh != parent:
-                    heapq.heappush(heap, [p*succProb[eid], ngh, node])
+                if not visited[ngh]:
+                    heapq.heappush(heap, [p*succProb[eid], ngh])
 
     
         return 0
