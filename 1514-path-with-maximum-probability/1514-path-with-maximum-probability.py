@@ -10,7 +10,7 @@ class Solution:
 
         heap = []
         heapq.heappush(heap, [-1, start_node])
-        max_probs = [-float('inf') for i in range(n)]
+        max_probs = [0 for i in range(n)]
         max_probs[start_node] = 1
 
         # res = -float('inf')
