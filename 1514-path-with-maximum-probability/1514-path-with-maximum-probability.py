@@ -2,7 +2,7 @@ class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
 
 
-        adj = collections.defaultdict(list)
+        adj = [[] for i in range(n)]
 
         for i,[u,v] in enumerate(edges):
             adj[u].append([v, succProb[i]])
