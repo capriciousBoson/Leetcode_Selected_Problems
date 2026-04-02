@@ -8,7 +8,7 @@ class Solution:
             adj[u].append([v, succProb[i]])
             adj[v].append([u,succProb[i]])
 
-        heap = [[-1, start_node]]
+        heap = [(-1, start_node)]
         max_probs = [0 for i in range(n)]
         max_probs[start_node] = 1
 
@@ -26,9 +26,7 @@ class Solution:
 
             for ngh,sp in adj[node]:
                 if p*sp > max_probs[ngh]:
-                    # max_probs[ngh] = sp*p
-
-                    heapq.heappush(heap, [-p*sp, ngh])
+                    heapq.heappush(heap, (-p*sp, ngh))
 
     
         return max_probs[end_node]
