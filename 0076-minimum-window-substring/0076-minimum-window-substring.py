@@ -1,47 +1,46 @@
-from collections import Counter, defaultdict
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if not s or not t or len(s) < len(t):
             return ""
-        n = len(s)
-        t_counter = Counter(t)
-        window_counter = defaultdict(int)
 
-        required = len(t_counter)
-        found = 0
 
-        left, right = 0,0
         min_len = float('inf')
-        min_window = ""
+        min_str = ""
 
-        while right < n :
-            # print(f"\ncurrent window : {s[left:right+1]}")
-            char = s[right]
-            if char in t_counter:
-                window_counter[char] += 1
-            
-                if window_counter[char] == t_counter[char]:
-                    found += 1
-            while found == required and left <= right:
-                # print(f"found candidate : {s[left:right+1]} window_counter : {window_counter}")
-                if right-left+1 < min_len:
-                    min_len  = right-left+1
-                    min_window = s[left:right+1]
+        t_counter = collections.Counter(t)
+        left,right = 0,0
+        formed = 0
+        window_counter = collections.defaultdict(int)
 
-                # shrink thw window by 1
-                left_char = s[left]
-                if left_char in window_counter:
-                    window_counter[left_char] -= 1
-                    if window_counter[left_char] < t_counter[left_char]:
-                        found -= 1
+        while right < len(s):
+            # expand the window
+            rchar = s[right]
+            if rchar in t_counter:
+                window_counter[rchar] += 1
+                if window_counter[rchar]==t_counter[rchar]:
+                    formed += 1
+
+            # shrink the window
+            while formed==len(t_counter) and left <= right:
+                if right-left + 1 < min_len:
+                    min_len = right-left + 1
+                    min_str = s[left:right+1]
+                
+                lchar = s[left]
                 left += 1
+
+                # adjust counters upon shrinking
+                if lchar in window_counter:
+                    window_counter[lchar] -= 1
+                    if window_counter[lchar] < t_counter[lchar]:
+                        formed -= 1
+
             right += 1
-        return min_window
 
-
-
-                  
+        return min_str
 
 
                 
+
+
         
