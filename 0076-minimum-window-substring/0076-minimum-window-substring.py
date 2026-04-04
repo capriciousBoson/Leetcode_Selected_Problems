@@ -3,17 +3,13 @@ class Solution:
         if not s or not t or len(s) < len(t):
             return ""
 
-        if len(t)==1:
-            if t in s:
-                return t
-            return ""
-
         min_len = float('inf')
         min_str = ""
 
         t_counter = collections.Counter(t)
         left,right = 0,0
         formed = 0
+        required = len(t_counter)
         window_counter = collections.defaultdict(int)
 
         while right < len(s):
@@ -25,7 +21,7 @@ class Solution:
                     formed += 1
 
             # shrink the window
-            while formed==len(t_counter) and left <= right:
+            while formed==required and left <= right:
                 if right-left + 1 < min_len:
                     min_len = right-left + 1
                     min_str = s[left:right+1]
