@@ -3,6 +3,10 @@ class Solution:
         if not s or not t or len(s) < len(t):
             return ""
 
+        if len(t)==1:
+            if t in s:
+                return t
+            return ""
 
         min_len = float('inf')
         min_str = ""
