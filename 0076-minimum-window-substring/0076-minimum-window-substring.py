@@ -5,6 +5,8 @@ class Solution:
 
         min_len = float('inf')
         min_str = ""
+        min_left = 0
+        min_right = 0
 
         t_counter = collections.Counter(t)
         left,right = 0,0
@@ -24,7 +26,9 @@ class Solution:
             while formed==required and left <= right:
                 if right-left + 1 < min_len:
                     min_len = right-left + 1
-                    min_str = s[left:right+1]
+                    # min_str = s[left:right+1]
+                    min_left = left
+                    min_right = right
                 
                 lchar = s[left]
                 left += 1
@@ -37,7 +41,7 @@ class Solution:
 
             right += 1
 
-        return min_str
+        return s[min_left:min_right+1] if min_len != float('inf') else ""
 
 
                 
