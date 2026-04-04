@@ -4,19 +4,33 @@ class Solution:
         n = len(nums)
         
         res = []
-        max_heap = []
-        
-        for i in range(n):
-            # expand the window
-            heapq.heappush(max_heap, [-nums[i], i])
+        # lets implement a monotonic queue
+        # as we need a running maximum
 
-            if len(max_heap) <k:
-                continue
-            left = i - k +1
-            while  max_heap[0][1] < left:
-                heapq.heappop(max_heap)
+        q = collections.deque()
+        for i in range(k):
+            while q and nums[q[-1]] < nums[i]:
+                q.pop()
+            q.append(i)
+        
+        res.append(nums[q[0]])
+        
+        left, right = 1, k
+
+        while right < n:
+            while q and nums[q[-1]] < nums[right]:
+                q.pop()
             
-            res.append(-max_heap[0][0])
+            q.append(right)
+            res.append(nums[q[0]])
+            left += 1
+            right += 1
+
+        return res
+
+
+
+
         return res
 
 
