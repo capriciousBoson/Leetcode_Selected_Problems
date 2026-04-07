@@ -22,4 +22,4 @@ class Solution:
                 val = int(op2/op1)
             stk.append(val)
         
-        return int(stk[0])
+        return stk[0]
