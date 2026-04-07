@@ -82,6 +82,7 @@ My Solutions to some selected Leetcode problems.
 | [0134-gas-station](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0162-find-peak-element) |
@@ -638,6 +639,7 @@ My Solutions to some selected Leetcode problems.
 | [0085-maximal-rectangle](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0496-next-greater-element-i) |
@@ -733,6 +735,7 @@ My Solutions to some selected Leetcode problems.
 | [0002-add-two-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
 ## Recursion
