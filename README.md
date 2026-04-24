@@ -100,6 +100,7 @@ My Solutions to some selected Leetcode problems.
 | [0238-product-of-array-except-self](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -540,6 +541,7 @@ My Solutions to some selected Leetcode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
@@ -618,6 +620,7 @@ My Solutions to some selected Leetcode problems.
 | [0141-linked-list-cycle](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0443-string-compression) |
@@ -862,4 +865,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
