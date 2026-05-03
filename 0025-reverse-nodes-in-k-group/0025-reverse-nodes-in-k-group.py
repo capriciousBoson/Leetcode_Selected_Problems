@@ -12,7 +12,7 @@ class Solution:
         stk = []
 
         while current:
-            print(f"processed : {current.val} | stk length = {len(stk)+1}")
+            # print(f"processed : {current.val} | stk length = {len(stk)+1}")
             stk.append(current)
             current = current.next
 
