@@ -1,35 +1,34 @@
-"""
+
 # Definition for a Node.
 class Node:
     def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):
         self.val = int(x)
         self.next = next
         self.random = random
-"""
+
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        node_map = {None:None}
-    
+        if not head:
+            return
+        node_map = {}
+        curr = head
 
-        current = head
-        while current:
-            node_map[current] = ListNode(current.val)
+        while  curr:
+            new_node = Node(curr.val)
+            node_map[curr] = new_node
+            curr = curr.next
         
-            current = current.next
-
-        # for oldnode, newnode in node_map.items():
-        #     if oldnode is not None:
-        #         newnode.next  = node_map.get(oldnode.next, None)
-        #         newnode.random = node_map.get(oldnode.random, None)
         current = head
+
         while current:
-            newnode = node_map[current]
-            newnode.next = node_map[current.next]
-            newnode.random = node_map[current.random]
+            new_node = node_map[current]
+            if current.next is not None:
+                new_node.next = node_map[current.next]
+            
+            if current.random is not None:
+                new_node.random = node_map[current.random]
 
             current = current.next
 
         return node_map[head]
-        
-        
