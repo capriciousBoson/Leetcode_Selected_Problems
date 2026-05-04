@@ -247,6 +247,7 @@ My Solutions to some selected Leetcode problems.
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -276,6 +277,7 @@ My Solutions to some selected Leetcode problems.
 | [0994-rotting-oranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -526,6 +528,7 @@ My Solutions to some selected Leetcode problems.
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search Tree
@@ -600,6 +603,7 @@ My Solutions to some selected Leetcode problems.
 | [0784-insert-into-a-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Data Stream
