@@ -1,16 +1,22 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+
+        n = len(candidates)
         res = []
-        def fun(i,t, subset):
-            if i >= len(candidates):
-                return
-            if t==target:
+
+        def dfs(i, x, subset):
+            if x==target:
                 res.append(subset)
                 return
-            elif t > target:
-                return
-            fun(i+1, t, subset) 
-            fun(i, t+candidates[i], subset+[candidates[i]]) 
             
-        fun(0, 0, [])
+            if x > target:
+                return
+
+            if i==n:
+                return
+            
+            dfs(i, x + candidates[i], subset+[candidates[i]])
+            dfs(i+1, x, subset)
+        dfs(0, 0, [])
         return res
+     
