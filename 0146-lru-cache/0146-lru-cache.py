@@ -1,63 +1,39 @@
 class Node:
-    def __init__(self, val):
+    def __init__(self,key=0, val=0, next=None, previous=None):
         self.val = val
-        self.next = None
-        self.prev = None
+        self.key = key
+        self.next = next
+        self.previous = previous
 
 class DoublyLinkedList:
     def __init__(self):
         self.head = Node(-1)
         self.tail = Node(-1)
         self.head.next = self.tail
-        self.tail.prev = self.head
-
-        
-    
-    def delete(self, node):
-        prev_node = node.prev
-        next_node = node.next
-        next_node.prev = prev_node
-        prev_node.next = next_node
-
-        node.next = None
-        node.prev = None
-        
-        return node
-
-    def delete_front_node(self):
-        node = self.head.next
-        self.head.next = self.head.next.next
-        node.next.prev = self.head
-        node.next = None
-        node.prev = None
-        return node
-
+        self.tail.previous = self.head
     
     def insert_at_end(self, node):
-       
+        prev = self.tail.previous
+        prev.next = node
+        node.previous = prev
+
+        self.tail.previous = node
         node.next = self.tail
-        node.prev = self.tail.prev
 
-        node.next.prev = node
-        node.prev.next = node
+    
+    def delete(self, node):
+        left = node.previous
+        right = node.next
+        left.next = right
+        right.previous = left
 
+        node.next = None
+        node.previous = None
         return node
 
-
-    def move_to_end(self,node):
-        deleted_node = self.delete(node)
-        self.insert_at_end(deleted_node)
-    
-    def show(self):
-        curr = self.head
-        # print(f"head : -------------------------------------")
-        while curr:
-            # print(curr.val)
-            curr = curr.next
-        # print(f"tail :---------------------------------------")
-        
-
-
+    def move_to_end(self, node):
+        node = self.delete(node)
+        self.insert_at_end(node)
 
 class LRUCache:
 
@@ -65,61 +41,38 @@ class LRUCache:
         self.capacity = capacity
         self.dll = DoublyLinkedList()
         self.node_map = {}
-        self.key_map = {}
-    
-
+        
 
     def get(self, key: int) -> int:
-        # print(f"\nGET : key : {key} -----------------------")
-
         if key in self.node_map:
             node = self.node_map[key]
             self.dll.move_to_end(node)
-            # print(f"found key, val  :{key, node.val}")
+
             return node.val
         else:
-            # print(f"couldnot find key :{key}")
             return -1
-    
-
+        
 
     def put(self, key: int, value: int) -> None:
-        # print(f"\nPUT call for  key,val : {key,value} ----")
-        # self.dll.show()
-
-        if key not in self.node_map: #insert a new node
-            # print(f"inserting a new node with key,val : {key,value} --------")    
-
-            if not self.capacity:
-                # print(f"capacity reached : {self.capacity}")
-                deleted_node = self.dll.delete_front_node()
-                # print(f"after deletiong front : ")
-                # self.dll.show()
-                # print(f"head :{self.dll.head.val} | tail : {self.dll.tail.val}")
-                # print(f"deletd front node : {deleted_node.val}")
-                deleted_key = self.key_map[deleted_node]
-                # print(f"deleted key, val : {deleted_key, deleted_node.val}")
-
-                self.node_map.pop(deleted_key)
-                self.key_map.pop(deleted_node)
-                self.capacity += 1
-
-            node = Node(value)
-            self.node_map[key] = node
-            self.key_map[node] = key
-            self.dll.insert_at_end(node)
-            # print(f"inserted new node with key, val :  {key, value}")
-            # self.dll.show()
-            # print(f"node_map : {self.node_map}")
-            # print(f"key_map : {self.key_map}")
-            self.capacity -= 1
-            # print(f"capacity : {self.capacity}")
-        else:                       #update existing node
+        if key in self.node_map:
             node = self.node_map[key]
             node.val = value
             self.dll.move_to_end(node)
+            return
+        else:
 
-        return
+            if not self.capacity:
+                # delete the leftmost node (lru) fromm linkedlist
+                lru_node = self.dll.delete(self.dll.head.next)
+                self.node_map.pop(lru_node.key)
+                self.capacity += 1
+
+            new_node = Node(key=key, val=value)
+            self.dll.insert_at_end(new_node)
+            self.node_map[key] = new_node
+            self.capacity -= 1 
+
+            return
 
 
 
