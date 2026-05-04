@@ -1,147 +1,117 @@
 class Node:
-    def __init__(self, key, val):
-        self.val = val
+    def __init__(self, key=0, val=0, next=None, previous=None):
         self.key = key
-        self.next = None
-        self.prev = None
+        self.val = val
+        self.next = next
+        self.previous = previous
 
 class DoublyLinkedList:
     def __init__(self):
-        self.head = Node(-1, -1)
-        self.tail = Node(-1, -1)
+        self.head = Node(-1)
+        self.tail = Node(-1)
         self.head.next = self.tail
-        self.tail.prev = self.head
+        self.tail.previous = self.head
         self.length = 0
-
-        
-    
-    def delete(self, node):
-        prev_node = node.prev
-        next_node = node.next
-        next_node.prev = prev_node
-        prev_node.next = next_node
-
-        node.next = None
-        node.prev = None
-        self.length -= 1
-        
-        return node
-
-    def delete_front_node(self):
-        node = self.head.next
-        self.head.next = self.head.next.next
-        node.next.prev = self.head
-        node.next = None
-        node.prev = None
-        self.length -= 1
-        return node
-
     
     def insert_at_end(self, node):
-       
+        prev = self.tail.previous
+        prev.next = node
+        node.previous = prev
+
+        self.tail.previous = node
         node.next = self.tail
-        node.prev = self.tail.prev
-
-        node.next.prev = node
-        node.prev.next = node
         self.length += 1
-
-        return node
-
-
-    def move_to_end(self,node):
-        deleted_node = self.delete(node)
-        self.insert_at_end(deleted_node)
     
-    def show(self):
-        curr = self.head
-        print(f"head : -------------------------------------")
-        while curr:
-            print(curr.val)
-            curr = curr.next
-        print(f"tail :---------------------------------------")
+    def delete(self, node):
+        left = node.previous
+        right = node.next
+        left.next = right
+        right.previous = left
 
+        node.previous = None
+        node.next = None
+
+        self.length -= 1
+        return node
 
 
 class LFUCache:
 
     def __init__(self, capacity: int):
         self.capacity = capacity
-        self.cache = {}
-        self.freq = {}
-        self.nodeMap = {}
-        self.freqMap = {} 
-        self.minFreq = float('inf')
+        self.frequency_dlls = {}
+        self.freq_map = {}
+        self.node_map = {}
+        self.min_freq = float('inf')
+
     
-    def _increaseKeyFreq(self, key):
-
-        keyFreq = self.freq[key]
-
-        dll = self.freqMap[keyFreq]
-        node = self.nodeMap[key]
+    def _increase_key_frequency(self, key):
+        node = self.node_map[key]
+        f = self.freq_map[key]
+        dll = self.frequency_dlls[f]
+        # remove the node from dll of frequency f
         dll.delete(node)
 
-        self.freq[key] += 1
-        if self.freq[key] not in self.freqMap : 
-            self.freqMap[self.freq[key]] = DoublyLinkedList()
+        # increase key frequency and add the dll of new inreased frequency
+        self.freq_map[key] += 1
+        if self.freq_map[key] not in self.frequency_dlls:
+            self.frequency_dlls[self.freq_map[key]] = DoublyLinkedList()
+        self.frequency_dlls[self.freq_map[key]].insert_at_end(node)
 
-        new_dll = self.freqMap[self.freq[key]]
-        new_dll.insert_at_end(node)
-
+        # cleanup
         if dll.length == 0:
-            self.freqMap.pop(keyFreq)
-            if keyFreq == self.minFreq:
-                self.minFreq += 1
-    
-    def _deleteLfuLru(self):
-        minFreqDll = self.freqMap[self.minFreq]
-        deletedNode  = minFreqDll.delete_front_node()
-        deletedKey = deletedNode.key
-        self.cache.pop(deletedKey)
-        self.nodeMap.pop(deletedKey)
-        self.freq.pop(deletedKey)
+            self.frequency_dlls.pop(f)
+            if f==self.min_freq:
+                self.min_freq += 1
+        return 
 
-        if minFreqDll.length == 0:
-            self.freqMap.pop(self.minFreq)
-            # self.minFreq += 1
+    def _delete_lfu_lru(self):
+        dll = self.frequency_dlls[self.min_freq]
+        deleted_node = dll.delete(dll.head.next)
+
+        self.node_map.pop(deleted_node.key)
+        self.freq_map.pop(deleted_node.key)
         self.capacity += 1
+
+        # cleanup
+        if dll.length==0:
+            self.frequency_dlls.pop(self.min_freq)
         return
 
 
+
     def get(self, key: int) -> int:
-        if key not in self.cache:
-            return -1
-        self._increaseKeyFreq(key)
-
-        return self.cache[key]
-
-        
+        if key in self.node_map:
+            node = self.node_map[key]
+            self._increase_key_frequency(key)
+            return node.val
+        return -1
 
     def put(self, key: int, value: int) -> None:
-        
-        if key in self.cache:
-            self.cache[key] = value
-            self._increaseKeyFreq(key)
+        if key not in  self.node_map:
+            if not self.capacity:
+                self._delete_lfu_lru()
+            
+            new_node = Node(key=key, val=value)
+            self.freq_map[key] = 1
+            self.min_freq = min(self.min_freq, self.freq_map[key])
+
+            if self.freq_map[key] not in self.frequency_dlls:
+                self.frequency_dlls[self.freq_map[key]] = DoublyLinkedList()
+            
+            dll = self.frequency_dlls[self.freq_map[key]]
+            dll.insert_at_end(new_node)
+            self.node_map[key] = new_node
+            self.capacity -= 1
 
         else:
-            if self.capacity == 0:
-                self._deleteLfuLru()
-
-            self.cache[key] = value
-            self.freq[key] = 1
-            if self.freq[key] not in self.freqMap:
-                self.freqMap[self.freq[key]] = DoublyLinkedList()
-
-            dll = self.freqMap[self.freq[key]]
-            node = Node(key, value)
-            dll.insert_at_end(node)
-            self.nodeMap[key] = node
-            self.capacity -= 1
-            self.minFreq = min(self.minFreq, self.freq[key])
+            node = self.node_map[key]
+            node.val = value
+            self._increase_key_frequency(key)
 
 
 
-
+             
         
 
 
