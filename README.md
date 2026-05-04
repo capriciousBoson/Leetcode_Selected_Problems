@@ -71,6 +71,7 @@ My Solutions to some selected Leetcode problems.
 | [0063-unique-paths-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0085-maximal-rectangle) |
@@ -304,6 +305,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0039-combination-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
@@ -895,6 +897,7 @@ My Solutions to some selected Leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0287-find-the-duplicate-number) |
 ## Geometry
 |  |
