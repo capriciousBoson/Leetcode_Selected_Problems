@@ -139,6 +139,7 @@ My Solutions to some selected Leetcode problems.
 | [0907-koko-eating-bananas](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0983-minimum-cost-for-tickets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -327,6 +328,7 @@ My Solutions to some selected Leetcode problems.
 | [0240-search-a-2d-matrix-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -352,6 +354,7 @@ My Solutions to some selected Leetcode problems.
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -380,6 +383,7 @@ My Solutions to some selected Leetcode problems.
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1514-path-with-maximum-probability](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1514-path-with-maximum-probability) |
@@ -394,6 +398,7 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -767,6 +772,7 @@ My Solutions to some selected Leetcode problems.
 | [0070-climbing-stairs](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
 ## Recursion
 |  |
@@ -890,4 +896,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
