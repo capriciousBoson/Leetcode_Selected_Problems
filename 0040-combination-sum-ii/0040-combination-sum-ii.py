@@ -21,6 +21,9 @@ class Solution:
 
                 if idx > i and candidates[idx]==candidates[idx-1]:
                     continue
+
+                if x+candidates[idx] > target:
+                    continue
                 dfs(idx+1, x+candidates[idx], subset + [candidates[idx]])
 
 
