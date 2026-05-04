@@ -1,22 +1,26 @@
-from collections import Counter
 class Solution:
     def leastInterval(self, tasks: List[str], n: int) -> int:
-        c = Counter(tasks)
-        # freq = [item[1] for item in sorted(c.items(), key=lambda x: x[1])]
-        freq = []
-        for task, f in c.items():
-            heapq.heappush(freq, -1*f)
-        # print(freq)
-        f1 = -1*heapq.heappop(freq)
-        extra_places = (f1 - 1)*n
+        task_freq = collections.Counter(tasks)
 
-        # print(f"f1 = {f1}, extraplaces = {extra_places}")
-        while freq:
-            f = -1*heapq.heappop(freq)
-            # print(f"current frequency = {f}, occ = { min(f1-1, f)} ")
-
-            extra_places -= min(f1-1, f)
-        # print(f"finally extra_places : {extra_places}")
-        return len(tasks) + max(0, extra_places)
-
+        freq_max_heap = []
+        for freq in task_freq.values():
+            freq_max_heap.append(-1*freq)
         
+        heapq.heapify(freq_max_heap)
+
+        max_freq= heapq.heappop(freq_max_heap)
+        max_freq *= -1
+
+        empty_spaces = (max_freq-1)*n
+    
+
+        while freq_max_heap:
+            f = heapq.heappop(freq_max_heap)
+            f *= -1
+            
+            empty_spaces -= min(f, max_freq-1)
+
+        empty_spaces = max(0, empty_spaces)
+        
+        return len(tasks) + empty_spaces
+
