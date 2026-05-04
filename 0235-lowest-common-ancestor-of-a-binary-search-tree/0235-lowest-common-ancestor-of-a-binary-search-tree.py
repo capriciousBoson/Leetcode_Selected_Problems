@@ -12,20 +12,14 @@ class Solution:
             if not node:
                 return None
 
-            if node==p or node ==q:
-                return node
-            l = dfs(node.left)
-            r = dfs(node.right)
-
-            if l!=None and r != None:
-                return node
-            if l is None and r is None:
-                return None
-            if l is not None:
-                return l
-            if r is not None:
-                return r
-        return dfs(root)
+            # if node==p or node ==q:
+            #     return node
+            if node.val > p.val and node.val > q.val:
+                return dfs(node.left)
+            if node.val < p.val and node.val < q.val:
+                return dfs(node.right)
             
+            return node
+        return dfs(root)
 
         
