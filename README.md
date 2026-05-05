@@ -14,6 +14,7 @@ My Solutions to some selected Leetcode problems.
 | [0049-group-anagrams](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0127-word-ladder) |
@@ -73,6 +74,7 @@ My Solutions to some selected Leetcode problems.
 | [0064-minimum-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0085-maximal-rectangle) |
@@ -220,6 +222,7 @@ My Solutions to some selected Leetcode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0100-same-tree) |
@@ -308,6 +311,7 @@ My Solutions to some selected Leetcode problems.
 | [0040-combination-sum-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
@@ -750,6 +754,7 @@ My Solutions to some selected Leetcode problems.
 | [0063-unique-paths-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0200-number-of-islands) |
