@@ -1,34 +1,28 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         adj = collections.defaultdict(list)
-        indegrees = [0 for _ in range(numCourses)]
-
         for u,v in prerequisites:
             adj[v].append(u)
-            indegrees[u] += 1
-        q = collections.deque()
 
-        for i in range(numCourses):
-            if indegrees[i] == 0:
-                q.append(i)
-
-        # print(f"adj : {adj} \nindegrees : {indegrees} \nq : {q}")
+        visited = [False for _ in range(numCourses)]
+        path_visited = [False for _ in range(numCourses)]
 
 
-        toposort = []
-        while q:
-            node = q.popleft()
-            toposort.append(node)
-
+        def dfs(node):
+            visited[node] = True
+            path_visited[node] = True
             for ngh in adj[node]:
-                indegrees[ngh] -= 1
-                # print(f" indegrees : {indegrees}")
-                if indegrees[ngh] == 0:
-                    q.append(ngh)
+                if not visited[ngh]:
+                    if dfs(ngh):
+                        return True
+                elif visited[ngh] and path_visited[ngh]:
+                    return True
+            path_visited[node] = False
+            return False
 
-        # print(f"toposort : {toposort}")
-        return numCourses == len(toposort)
-        
-    
-
-        
+        for course in range(numCourses):
+            if not visited[course]:
+                cycle = dfs(course)
+                if cycle:
+                    return False
+        return True
