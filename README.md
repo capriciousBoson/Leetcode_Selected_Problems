@@ -38,6 +38,7 @@ My Solutions to some selected Leetcode problems.
 | [0686-repeated-string-match](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1023-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1092-shortest-common-supersequence) |
@@ -363,6 +364,7 @@ My Solutions to some selected Leetcode problems.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0881-boats-to-save-people) |
@@ -392,6 +394,7 @@ My Solutions to some selected Leetcode problems.
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0767-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -465,6 +468,7 @@ My Solutions to some selected Leetcode problems.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0895-maximum-frequency-stack) |
@@ -491,6 +495,7 @@ My Solutions to some selected Leetcode problems.
 | [0678-valid-parenthesis-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0846-hand-of-straights) |
 | [0876-hand-of-straights](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0881-boats-to-save-people) |
@@ -504,6 +509,7 @@ My Solutions to some selected Leetcode problems.
 | [0347-top-k-frequent-elements](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0767-reorganize-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Design
 |  |
