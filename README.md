@@ -164,6 +164,7 @@ My Solutions to some selected Leetcode problems.
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1706-min-cost-to-connect-all-points](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1962-single-threaded-cpu](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1962-single-threaded-cpu) |
@@ -320,6 +321,7 @@ My Solutions to some selected Leetcode problems.
 | [0079-word-search](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -795,6 +797,7 @@ My Solutions to some selected Leetcode problems.
 | [0150-evaluate-reverse-polish-notation](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2709-greatest-common-divisor-traversal](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/2709-greatest-common-divisor-traversal) |
 ## Recursion
 |  |
@@ -834,6 +837,7 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -919,8 +923,13 @@ My Solutions to some selected Leetcode problems.
 | ------- |
 | [0078-subsets](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0287-find-the-duplicate-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Geometry
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
