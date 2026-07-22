@@ -14,9 +14,9 @@ class Solution:
 
         res = ""
         while heap:
-            print(f"\nres= {res}")
+            # print(f"\nres= {res}")
             f, char = heapq.heappop(heap)
-            print(f"freq, char : {f,char}")
+            # print(f"freq, char : {f,char}")
             hold = ()
             if res and  res[-1]== char:
                 hold = (f,char)
@@ -35,7 +35,7 @@ class Solution:
                 res = res + char+char
                 f -= 2
 
-            print(f"updated res = {res}")
+            # print(f"updated res = {res}")
             if f:
                 heapq.heappush(heap, (-f, char))
 
