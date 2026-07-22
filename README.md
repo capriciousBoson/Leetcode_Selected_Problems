@@ -44,6 +44,7 @@ My Solutions to some selected Leetcode problems.
 | [1092-shortest-common-supersequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1392-longest-happy-prefix) |
+| [1405-longest-happy-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Array
@@ -401,6 +402,7 @@ My Solutions to some selected Leetcode problems.
 | [0973-k-closest-points-to-origin](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1405-longest-happy-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1405-longest-happy-string) |
 | [1514-path-with-maximum-probability](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -502,6 +504,7 @@ My Solutions to some selected Leetcode problems.
 | [0890-lemonade-change](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1405-longest-happy-string](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1405-longest-happy-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Counting
 |  |
