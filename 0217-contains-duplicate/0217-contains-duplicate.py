@@ -4,7 +4,6 @@ class Solution:
         for n in nums:
             if n in seen:
                 return True
-            else:
-                seen.add(n)
+            seen.add(n)
         return False
         
