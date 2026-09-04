@@ -1,26 +1,24 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-
         n = len(nums)
-        prefix = [1 for _ in range(n)]
-        postfix = [1 for _ in range(n)]
+        left_product = [1 for _ in range(n)]
+        right_product = [1 for _ in range(n)]
+        res = [1 for _ in range(n)]
 
-        # if n>1:
-        #     prefix[1] = nums[0]
-
-        for i in range(1,n):
-            prefix[i] = prefix[i-1]*nums[i-1]
+    
+        for i in range(1, len(nums)):
+            p = left_product[i-1] * nums[i-1]
+            left_product[i]=p
         
-        # if n>1:
-        #     postfix[n-2] = nums[n-1]
         
-        for j in range(n-2, -1, -1):
-            postfix[j] = postfix[j+1] * nums[j+1]
+        
 
-        # print(f"prefix : {prefix} \npostfix :{postfix}")
+        for j in range(len(nums)-2, -1, -1):
+            p = right_product[j+1] * nums[j+1]
+            right_product[j]=p
         
         res = []
-        for i in range(n):
-            res.append(prefix[i]*postfix[i])
+        for l,r in zip(left_product, right_product):
+            res.append(l*r)
+        
         return res
-
