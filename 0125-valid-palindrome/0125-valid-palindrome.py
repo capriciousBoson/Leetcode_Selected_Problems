@@ -4,7 +4,7 @@ class Solution:
         j = len(s)-1
 
         while i <=j:
-            print(f"left : {s[i]},  right : {s[j]}")
+            # print(f"left : {s[i]},  right : {s[j]}")
             if not s[i].isalnum():
                 i += 1
                 continue
