@@ -8,14 +8,11 @@ class Solution {
             Arrays.sort(chars);
             String sortedStr = new String(chars);
 
-            if (groups.containsKey(sortedStr)){
-                groups.get(sortedStr).add(s);
+            if (! groups.containsKey(sortedStr)){
+               groups.put(sortedStr, new ArrayList<String>());
             }
-            else{
-                groups.put(sortedStr, new ArrayList<String>());
-                groups.get(sortedStr).add(s);
-
-            }
+  
+            groups.get(sortedStr).add(s);
 
         }
 
