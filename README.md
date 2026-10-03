@@ -935,4 +935,8 @@ My Solutions to some selected Leetcode problems.
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/capriciousBoson/Leetcode_Selected_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
